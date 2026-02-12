@@ -1,0 +1,127 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* @import url(https://db.onlinewebfonts.com/c/0a6ee448d1bd65c56f6cf256a7c6f20a?family=Bahnschrift); */
+
+@font-face {
+  font-family: "Bahnschrift";
+  src: url("/bahnschrift/bahnschrift.woff") format("woff2"),
+    url("/bahnschrift/bahnschrift.woff") format("woff"),
+    url("/bahnschrift/bahnschrift.svg#Bahnschrift") format("svg"),
+    url("/bahnschrift/bahnschrift.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+:root {
+  --foreground-rgb: 0, 0, 0;
+  --background-start-rgb: 214, 219, 220;
+  --background-end-rgb: 255, 255, 255;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --foreground-rgb: 255, 255, 255;
+    --background-start-rgb: 0, 0, 0;
+    --background-end-rgb: 0, 0, 0;
+  }
+}
+
+html {
+  @apply sm:text-[16px] text-[14px];
+  scroll-behavior: smooth;
+  font-family: "Bahnschrift";
+  width: 100%;
+  overflow-x: hidden;
+}
+
+body {
+  /* color: rgb(var(--foreground-rgb)); */
+  color: #bd6c25;
+  background: #fcedce;
+  scroll-behavior: smooth;
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}
+
+p {
+  /* font-family: 'Playfair Display'; */
+  font-size: 16px;
+  font-weight: 200 !important;
+  @apply text-vc-light mb-2;
+}
+
+.clip {
+  clip-path: polygon(0 0, 100% 0, 100% 50%, 100% 100%, 36% 100%, 0 65%);
+}
+
+h1 {
+  font-size: 3.815rem;
+}
+
+/* Example starting point */
+h2 {
+  font-size: 3.052rem;
+}
+
+/* 1.25 times smaller than h1 */
+h3 {
+  font-size: 2.441rem;
+}
+
+/* 1.25 times smaller than h2 */
+h4 {
+  font-size: 1.953rem;
+}
+
+h5 {
+  font-size: 1.563rem;
+}
+
+h6 {
+  font-size: 1.25rem;
+}
+
+p {
+  font-size: 1rem;
+}
+
+small {
+  font-size: 0.8rem;
+}
+
+.clip-t-r {
+  clip-path: polygon(0 0, 54% 0, 100% 36%, 100% 100%, 0 100%, 0 65%);
+}
+
+.text-v25 {
+  font-family: "pf-fuel-grime", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+@media (max-width: 770px) {
+  .clip-t-r {
+    clip-path: polygon(0 0, 70% 0, 100% 20%, 100% 100%, 0 100%, 0 65%);
+  }
+}
+
+.mantine-Tabs-tab[data-active="true"] {
+  background-color: #386634;
+}
+
+.heartbeatSlow {
+  animation-name: heartbeatSlow;
+  animation-iteration-count: infinite;
+  animation-duration: 1s;
+}
+@keyframes heartbeatSlow {
+  35%,
+  65% {
+    transform: scale(1.2);
+  }
+}
