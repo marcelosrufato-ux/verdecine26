@@ -17,7 +17,7 @@ import { SpeedInsights } from "@vercel/speed-insights/next";
 export const metadata: Metadata = {
   title: "VERdeCINE – Festival Socioambiental de Filmes.",
   description:
-    "O VERdeCINE é um Festival Socioambiental de filmes que nasce em Lavras, Minas Gerais, em 2022.",
+    "O VERdeCINE é um festival socioambiental de filmes que nasce em Lavras, Minas Gerais, em 2022.",
 };
 export const viewport: Viewport = {
   width: "device-width",
