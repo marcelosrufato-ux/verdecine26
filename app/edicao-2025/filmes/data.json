@@ -1,0 +1,164 @@
+{
+  "films": [
+    {
+      "title": "CINEMA SEM TETO",
+      "year": 2025,
+      "type": "Documentário",
+      "local": "São Paulo / São Caetano do Sul",
+      "director": "Denise Szabo",
+      "synopsis": "Explora a história das mais de 11 antigas salas de cinema na cidade de São Caetano do Sul, na grande São Paulo, hoje extintas, traçando um paralelo com as transformações culturais provocadas pela ascensão dos cinemas de shopping e pelos avanços tecnológicos nas últimas décadas.. Cinema Sem Teto reflete sobre a importância do cinema de rua e popular como um meio vital de preservação e valorização da identidade e cultura regional, ao mesmo tempo em que questiona os impactos da escassez de investimento público no setor audiovisual brasileiro.",
+      "trailer": "https://youtu.be/_Zl4fMB2Atg",
+      "thumbnail": ""
+    },
+    {
+      "title": "QUINTAL",
+      "year": 2022,
+      "type": "Animação",
+      "local": "Bahia / Salvador",
+      "director": "Mariana Netto",
+      "synopsis": "Diadorim é uma menina sonhadora, e Riobaldo, um alegre passarinho azul. Em um terreno abandonado, aparentemente esquecido pela cidade grande, eles buscam juntos se libertar das limitações impostas pelo cotidiano. Inspirado na obra de Manoel de Barros.",
+      "trailer": "https://youtu.be/N5D7-5Cwpec",
+      "thumbnail": ""
+    },
+    {
+      "title": "ENSAIOS SOBRE UMA CIDADE",
+      "year": 2024,
+      "type": "Documentário",
+      "local": "Rio Grande do Sul / Canoas",
+      "director": "Wender Zanon",
+      "synopsis": "Ensaios sobre uma cidade reflete sobre como histórias podem ser preservadas através dos patrimônios e como essas narrativas moldam a memória, a percepção e o imaginário da cidade de Canoas, região metropolitana de Porto Alegre.",
+      "trailer": "https://youtu.be/qMwfMUUQnTg",
+      "thumbnail": ""
+    },
+    {
+      "title": "MARCOS, O ERRANTE",
+      "year": 2025,
+      "type": "Documentário",
+      "local": "Bahia / Salvador",
+      "director": "Thiago Brandão",
+      "synopsis": "Em Salvador, Marcos Pereira da Silva vive em situação de rua, mas sua história transcende a invisibilidade social. Através de suas reflexões poéticas e críticas contundentes, o filme acompanha uma noite na vida de Marcos, enquanto percorre bairros de elite da cidade. Um documentário humanista que ilumina a identidade de uma marginalidade, celebrando a resistência, a liberdade e a busca por dignidade em meio às desigualdades urbanas.",
+      "trailer": "https://youtu.be/DAEw5dBepNc",
+      "thumbnail": ""
+    },
+    {
+      "title": "MULHERES NA BIOCONSTRUÇÃO",
+      "year": 2024,
+      "type": "Documentário",
+      "local": "Minas Gerais / Carrancas",
+      "director": "Lais Yumi",
+      "synopsis": "Como é ser mulher na bioconstrução? Essa foi a pergunta que guiou conversas profundas com mulheres incríveis, que compartilharam suas experiências e vivências como bioconstrutoras. Neste episódio, mergulhamos nas dores e amores de criar moradas sustentáveis, explorando os desafios, conquistas e a força que move essas mulheres. As gravações aconteceram no Congresso Terra Brasil um encontro que reuniu pessoas de várias regiões do Brasil, e do mundo, para debater a construção com terra e sua infinita diversidade.",
+      "trailer": "https://youtu.be/WJ_xXZsBuXk",
+      "thumbnail": ""
+    },
+    {
+      "title": "FANTASMA NEON",
+      "year": 2022,
+      "type": "Ficção",
+      "local": "Rio de Janeiro / Rio de Janeiro",
+      "director": "Leonardo Martinelli",
+      "synopsis": "Um entregador de aplicativo sonha em ter uma moto. Disseram a ele que tudo seria como um filme musical.",
+      "trailer": "https://youtu.be/nnvWRVDiHf0",
+      "thumbnail": ""
+    },
+    {
+      "title": "MINHA CÂMERA É MINHA FLECHA",
+      "year": 2023,
+      "type": "Documentário",
+      "local": "São Paulo / São Paulo",
+      "director": "Natália Tupi",
+      "synopsis": "Richard Wera Mirim é um jovem Comunicador Indígena do Povo Guarani Mbya da Terra Indígena Jaraguá, território que ainda resiste às margens da Rodovia dos Bandeirantes, em São Paulo. O filme traz um pouco de sua trajetória, aliada à força do audiovisual e do uso das redes sociais na luta e resistência indígena. Mostra a câmera como uma flecha, uma ferramenta de comunicação poderosa, uma arma para registrar e retratar, com o olhar de quem vivencia a cultura, os conhecimentos, os territórios e demais aspectos dos povos originários pelo direito de existir.",
+      "trailer": "https://youtu.be/JoSqA1LceIY",
+      "thumbnail": ""
+    },
+    {
+      "title": "SANGUE E SUOR",
+      "year": 2024,
+      "type": "Documentário",
+      "local": "São Paulo / Santo André",
+      "director": "Bruno Badain",
+      "synopsis": "Acompanha a rotina exaustiva de dois trabalhadores que enfrentam longas jornadas de deslocamento diário em São Paulo. Através das histórias de Louro, um vigia de 64 anos, e Izabella, uma jovem recepcionista de 23, o filme revela a realidade desafiadora da mobilidade urbana e como o tempo gasto no transporte afeta a vida além do trabalho.",
+      "trailer": "https://youtu.be/NoY92vKQCHc",
+      "thumbnail": ""
+    },
+    {
+      "title": "PET",
+      "year": 2024,
+      "type": "Documentário",
+      "local": "São Paulo / Ferraz de Vasconcelos",
+      "director": "Douglas Cordeiro",
+      "synopsis": "Nas ruas de Ferraz de Vasconcelos há seres que passam despercebidos na maior parte do tempo. Os animais sem donos precisam enfrentar todo tipo de adversidade para sobreviver. Em um bairro da cidade, George e Paçoca vivem soltos até que, um dia, algo estranho acontece.",
+      "trailer": "https://youtu.be/1_3DJ0P7CEE",
+      "thumbnail": ""
+    },
+    {
+      "title": "O SILÊNCIO DAS OSTRAS",
+      "year": 2024,
+      "type": "Ficção",
+      "local": "Minas Gerais / Belo Horizonte",
+      "director": "Marcos Pimentel",
+      "synopsis": "A vida de uma menina que nasceu em uma vila de operários de uma mina e tem que aprender a lidar com as sucessivas perdas que a vida lhe reservou. Com o fim da mineração, o local se transforma em vila-fantasma. Sem ter para onde ir, ela e seus cachorros são os únicos que não abandonam o lugar, até que o rompimento de uma barragem dizima a vila. Depois de perder todos os seus mundos, Kaylane insiste em sobreviver e resistir.",
+      "trailer": "https://youtu.be/0nDkvwL1XaM",
+      "thumbnail": ""
+    },
+    {
+      "title": "JUSSARA",
+      "year": 2023,
+      "type": "Animação",
+      "local": "Bahia / Salvador",
+      "director": "Camila Ribeiro",
+      "synopsis": "Jussara é a própria memória da vila onde mora. Conhecida como conselheira e contadora de histórias, encanta e envolve todos em sua volta. Um dia se percebe cansada de guardar tanta informação e decide se livrar de tudo o que tem escrito para viver a sua própria história.",
+      "trailer": "https://youtu.be/hNPkX4rHsWo",
+      "thumbnail": ""
+    },
+    {
+      "title": "MAR CONCRETO",
+      "year": 2021,
+      "type": "Documentário",
+      "local": "Rio de Janeiro",
+      "director": "Julia Naidin",
+      "synopsis": "Como um exercício de resistência, Sônia acompanha o processo de erosão que vem sendo causado pelo mar que, dia após dia, avança pela praia, se aproximando do muro de sua casa. Ela faz registros diários desse processo e, por meio deles, constrói um vínculo afetivo com um território que desaparece – uma prosa solitária que desafia a tragédia final.",
+      "trailer": "https://youtu.be/ZNRtDY5NAOQ",
+      "thumbnail": ""
+    },
+    {
+      "title": "NUNCA É NOITE NO MAPA",
+      "year": 2016,
+      "type": "Documentário",
+      "local": "Pernambucano / Recife",
+      "director": "Ernesto de Carvalho",
+      "synopsis": "Que diferença faz para o mapa, se ele te contem? Um encontro frontal com o mapa, nos leva a um passeio pelo circuitos da simbiose entre o mapa e as transformações dos espaços na era do capitalismo digital.",
+      "trailer": "https://youtu.be/QH17W21SKyw",
+      "thumbnail": ""
+    },
+    {
+      "title": "AURORA - A RUA QUE QUERIA SER UM RIO",
+      "year": 2021,
+      "type": "Animação",
+      "local": "São Paulo",
+      "director": "Radhi Meron",
+      "synopsis": "Se as ruas pudessem falar, o que diriam? Aurora é uma triste e solitária rua de uma grande cidade. Em um dia de chuva forte, ela relembra sua trajetória e sonha com o futuro e se pergunta: é possível uma rua morrer?",
+      "trailer": "https://youtu.be/HBLyjqDBVTM",
+      "thumbnail": ""
+    },
+    {
+      "title": "DOMINGO EM RIGEL KENT",
+      "year": 2024,
+      "type": "Ficção",
+      "local": "Minas Gerais / Varginha",
+      "director": "André Ladeia",
+      "synopsis": "Curta baseado em um roteiro original, inspirado no teatro do absurdo, e filmado em preto e branco. Na história, o prefeito altera os dias através de portarias, e a população, ansiosa para resolver seus problemas, torna-se refém dessa realidade ilógica e absurda.",
+      "trailer": "https://youtu.be/5EZbVad-FGo",
+      "thumbnail": ""
+    },
+    {
+      "title": "CRESCER ONDE NASCE O SOL",
+      "year": 2021,
+      "type": "Documentário",
+      "local": "Pernambuco - PE",
+      "director": "Xulia Doxágui",
+      "synopsis": "No Alto do Sol Nascente não há uma praça ou parque sequer. Daffnny desafia sua sobrinha Hyally a demarcar com as próprias mãos, os territórios do brincar.",
+      "trailer": "https://youtu.be/qeuTzRxY-rs",
+      "thumbnail": ""
+    }
+  ]
+}

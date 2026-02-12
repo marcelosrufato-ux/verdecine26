@@ -1,0 +1,15 @@
+body {
+  background-color: #fff;
+  color: #386634;
+  /* font-family: ""; */
+}
+
+.vc_title {
+  font-family: pf-fuel-grime, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+p {
+  @apply text-vc25-green mb-2;
+}
