@@ -1,6 +1,7 @@
 "use client";
 import { Center, Container } from "@mantine/core";
-import { Footer, Header } from "../../components";
+import {Footer} from "../../edicao-2025/components/Footer";
+import {Header} from "../../edicao-2025/components/Header";
 import Image from "next/image";
 
 const QuemSomos = () => {

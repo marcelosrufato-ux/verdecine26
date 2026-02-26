@@ -1,6 +1,9 @@
 "use client";
 import { Center, Grid, GridCol } from "@mantine/core";
-import { Footer, Gallery, Header } from "../../components";
+import {Footer} from "../../edicao-2025/components/Footer";
+import {Header} from "../../edicao-2025/components/Header";
+
+import Gallery from "../../edicao-2025/components";
 import Image from "next/image";
 
 const Historico = () => {

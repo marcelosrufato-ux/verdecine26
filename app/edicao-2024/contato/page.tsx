@@ -1,5 +1,6 @@
 "use client";
-import { Footer, Header } from "../../edicao-2025/components";
+import {Footer} from "../../edicao-2025/components/Footer";
+import {Header} from "../../edicao-2025/components/Header";
 
 const Contato = () => {
   return (

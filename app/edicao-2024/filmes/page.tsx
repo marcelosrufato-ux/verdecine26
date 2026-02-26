@@ -1,6 +1,7 @@
 "use client";
 import { Card, Container, Grid, GridCol, Modal, Tooltip } from "@mantine/core";
-import { Footer, Header } from "../../components";
+import {Footer} from "../../edicao-2025/components/Footer";
+import {Header} from "../../edicao-2025/components/Header";
 import { useState } from "react";
 const ReactPlayer = dynamic(() => import("react-player"), {
   ssr: false,
