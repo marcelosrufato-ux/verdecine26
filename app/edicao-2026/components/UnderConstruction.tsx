@@ -20,7 +20,7 @@ export default function UnderConstruction() {
             className="bg-vc25-green-light text-vc25-green hover:bg-vc25-green-light hover:text-vc25-green hover:bg-opacity-85"
             variant="subtle"
           >
-            Edição 2024s
+            Edição 2024
           </Button>
         </Link>
       </header>

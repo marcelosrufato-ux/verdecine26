@@ -158,9 +158,9 @@ export default function Programacao25() {
       <Center className="py-5">
         <Stack align="center">
           <h4 className="vc_title">
-            Programação - Festival Socioambiental de Filmes Verdecine 2025
+            Aguarde a Programação - Festival Socioambiental de Filmes Verdecine 2026
           </h4>
-          <Button
+          {/*<Button
             component="a"
             download
             href="/Programação - VERdeCINE - 2025.pdf"
@@ -170,19 +170,19 @@ export default function Programacao25() {
             leftSection={<IconDownload />}
           >
             Baixar PDF da Programação
-          </Button>
+          </Button>*/}
         </Stack>
       </Center>
       <div className="p-5 border rounded-md">
         <Tabs color="#386634" variant="pills" defaultValue="quinta">
           <Tabs.List grow>
-            <DiaTab value="quinta" titulo="Quinta-feira" data="05/06" />
-            <DiaTab value="sexta" titulo="Sexta-feira" data="06/06" />
-            <DiaTab value="sabado" titulo="Sábado" data="07/06" />
-            <DiaTab value="domingo" titulo="Domingo" data="08/06" />
+            {/*<DiaTab value="quinta" titulo="Quinta-feira" data="29/05" />*/}
+            <DiaTab value="sexta" titulo="Sexta-feira" data="29/05" />
+            <DiaTab value="sabado" titulo="Sábado" data="30/05" />
+            <DiaTab value="domingo" titulo="Domingo" data="31/05" />
           </Tabs.List>
 
-          <Tabs.Panel value="quinta">
+          {/*<Tabs.Panel value="quinta">
             <div className="py-5">
               <LocalBox>Unilavras</LocalBox>
               <EventoBox horario="16:00-18:00" titulo="Abertura Verdecine">
@@ -196,9 +196,9 @@ export default function Programacao25() {
                 </EventDetail>
               </EventoBox>
             </div>
-          </Tabs.Panel>
+          </Tabs.Panel>*/}
 
-          <Tabs.Panel value="sexta">
+          {/*<Tabs.Panel value="sexta">
             <div className="py-5">
               <LocalBox>
                 CEU - Centro de Artes e Esporte Unificados - Lavrinhas
@@ -249,7 +249,7 @@ export default function Programacao25() {
               >
                 <EventDetail classificacao="livre">
                   <FilmeCard titulo="DOMINGO EM RIGEL KENT / Ficção /  20 minutos / MG" />
-                  {/* <FilmeCard titulo="SANGUE E SUOR / documentário / 25 minutos / SP" />  */}
+                  
                 </EventDetail>
               </EventoBox>
               <EventoBox
@@ -262,9 +262,9 @@ export default function Programacao25() {
                 </EventDetail>
               </EventoBox>
             </div>
-          </Tabs.Panel>
+          </Tabs.Panel>*/}
 
-          <Tabs.Panel value="sabado">
+          {/*<Tabs.Panel value="sabado">
             <div className="py-5">
               <LocalBox>
                 CEU - Centro de Artes e Esporte Unificados - Lavrinhas
@@ -338,9 +338,9 @@ export default function Programacao25() {
                 </EventDetail>
               </EventoBox>
             </div>
-          </Tabs.Panel>
+          </Tabs.Panel>*/}
 
-          <Tabs.Panel value="domingo">
+          {/*<Tabs.Panel value="domingo">
             <div className="py-5">
               <LocalBox>Praça Dr. Augusto Silva - Centro - Lavras</LocalBox>
               <EventoBox
@@ -433,7 +433,7 @@ export default function Programacao25() {
                 titulo="SHOW DE ENCERRAMENTO DO FESTIVAL: BINHO SEBÁ e GUSTAVO GU"
               ></EventoBox>
             </div>
-          </Tabs.Panel>
+          </Tabs.Panel>*/}
         </Tabs>
       </div>
     </>

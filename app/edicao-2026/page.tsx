@@ -1,5 +1,5 @@
 "use client";
-// import "./globals.css";
+import "./globals.css";
 import "./globalv2.css";
 
 import UnderConstruction from "./components/UnderConstruction";
@@ -24,8 +24,8 @@ import { HeaderSimple } from "./components/Menu/Menu";
 // import Image from "next/image";
 import Programacao25 from "./components/Programacao/Programacao";
 import Realizacao from "./components/Realizacao";
-import Footer25 from "./components/Footer25";
-import bg from "@/public/BG_SITE.png";
+import Footer26 from "./components/Footer26";
+import bg from "@/public/BG_Site2.jpg";
 import {
   IconArrowRight,
   IconArrowRightTail,
@@ -54,12 +54,12 @@ export default function Home() {
                   <h4 className="vc25-green vc_title leading-tight mt-5">
                     OLHAR AS CIDADES E COMUNIDADES SUSTENTÁVEIS
                   </h4>
-                  <h2 className="text-vc25-green-light text-6xl vc_title leading-tight">
+                  <h2 className="text-vc25-green-dark text-6xl vc_title leading-tight">
                     VER
                     <span className="text-5xl">DE</span>CINE FESTIVAL
                     SOCIOAMBIENTAL DE FILMES
                   </h2>
-                  <span className="text-4xl m-0 p-0 vc_title leading-tight text-vc25-green-light">
+                  <span className="text-4xl m-0 p-0 vc_title leading-tight text-vc25-green-dark">
                     {" "}
                     (Edição 2026)
                   </span>
@@ -72,14 +72,14 @@ export default function Home() {
                     cuidadosa curadoria, o festival celebra o cinema e promove
                     encontros e reflexões sobre os temas da agenda de 2030.
                     <span className="font-bold">
-                      Em 2025 o VERdeCINE expande o diálogo da ODS 11 para
+                      Em 2026 o VERdeCINE expande o diálogo da ODS 11 para
                       repensar as cidades e os assentamentos humanos vendo a
                       inclusão, segurança, resiliência e sustentabilidade.
                     </span>
                   </Text>
                   <Button
                     component="a"
-                    href="/programacao"
+                    href="/edicao-2026/programacao"
                     rightSection={<IconArrowRight />}
                     variant="transparent"
                     p={0}
@@ -92,20 +92,44 @@ export default function Home() {
                     <Button
                       size="lg"
                       component="a"
-                      href="/sobre/o-festival"
+                      href="/edicao-2026/sobre/o-festival"
                       leftSection={<IconPlus />}
                     >
                       Saiba Mais sobre o Festival
                     </Button>
                     <Button
                       size="lg"
+                      component="a"
+                      href="/EDITAL - VERDECINE - 2026.pdf"
+                      leftSection={<IconPlus />}
+                    >
+                      Veja o edital 2026 e se inscreva
+                    </Button>
+                    <Button
+                      size="lg"
+                      component="a"
+                      href="https://forms.gle/Ptid5q1oc5LY1Ny28"
+                      leftSection={<IconMovie  />}
+                    >
+                      Inscrição Curta-Metragem
+                    </Button>
+                    <Button
+                      size="lg"
+                      component="a"
+                      href="https://forms.gle/NhD85kFqMT6mMMzb9"
+                      leftSection={<IconMovie  />}
+                    >
+                      Inscrição Longa-Metragem
+                    </Button>
+                    {/*<Button
+                      size="lg"
                       variant="outline"
                       component="a"
-                      href="/filmes"
+                      href="/edicao-2026/filmes"
                       leftSection={<IconMovie />}
                     >
                       Confira os filmes selecionados
-                    </Button>
+                    </Button>*/}
                   </Group>
                 </div>
               </Grid.Col>
@@ -118,7 +142,7 @@ export default function Home() {
                   className="cursor-pointer hover:scale-[1.02] transition-all duration-300"
                 >
                   <Image
-                    src="/poster-verdecine-site.webp"
+                    src="/Poster-VERdeCINE-Site2.webp"
                     alt="poster"
                     radius="lg"
                     className="shadow-2xl shadow-[#00000025] relative opacity-85"
@@ -155,7 +179,7 @@ export default function Home() {
                       SEXTA-FEIRA
                       <span className="text-xl font-light">
                         {" "}
-                        06 de junho de 2025
+                        31 de maio de 2026
                       </span>
                     </Title>
                   </Group>
@@ -202,7 +226,7 @@ export default function Home() {
                       SÁBADO
                       <span className="text-xl font-light">
                         {" "}
-                        07 de junho de 2025
+                        30 de Maio de 2026
                       </span>
                     </Title>
                   </Group>
@@ -250,7 +274,7 @@ export default function Home() {
                       DOMINGO
                       <span className="text-xl font-light">
                         {" "}
-                        08 de junho de 2025
+                        31 de Maio de 2026
                       </span>
                     </Title>
                   </Group>
@@ -288,7 +312,7 @@ export default function Home() {
         </Container>
       </section>
 
-      <Footer25 />
+      <Footer26 />
       {/* <HeroContentLeft /> */}
 
       <Modal opened={opened} onClose={close} size={"xl"}>

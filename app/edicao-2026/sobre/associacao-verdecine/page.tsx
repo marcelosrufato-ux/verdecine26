@@ -1,6 +1,7 @@
 "use client";
 import "../../globalv2.css";
-import Footer25 from "../../components/Footer25";
+import "../../globalv3.css";
+import Footer25 from "../../components/Footer26";
 import { Stack, Title, Container, Text, Image, Center } from "@mantine/core";
 import { HeaderSimple } from "../../components/Menu/Menu";
 export default function Page() {

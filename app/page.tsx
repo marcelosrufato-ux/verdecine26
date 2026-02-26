@@ -1,6 +1,6 @@
 "use client";
 import "./globals.css";
-import "./globalv2.css";
+import "./edicao-2026/globalsv3.css";
 
 import UnderConstruction from "./edicao-2026/components/UnderConstruction";
 import { Header } from "./edicao-2026/components";
@@ -24,7 +24,7 @@ import { HeaderSimple } from "./edicao-2026/components/Menu/Menu";
 // import Image from "next/image";
 import Programacao25 from "./edicao-2026/components/Programacao/Programacao";
 import Realizacao from "./edicao-2026/components/Realizacao";
-import Footer25 from "./edicao-2026/components/Footer25";
+import Footer26 from "./edicao-2026/components/Footer26";
 import bg from "@/public/BG_SITE.png";
 import {
   IconArrowRight,
@@ -54,7 +54,7 @@ export default function Home() {
                   <h4 className="vc25-green vc_title leading-tight mt-5">
                     OLHAR AS CIDADES E COMUNIDADES SUSTENTÁVEIS
                   </h4>
-                  <h2 className="text-vc25-green-light text-6xl vc_title leading-tight">
+                  <h2 className="text-vc25-green-dark text-6xl vc_title leading-tight">
                     VER
                     <span className="text-5xl">DE</span>CINE FESTIVAL
                     SOCIOAMBIENTAL DE FILMES
@@ -79,7 +79,7 @@ export default function Home() {
                   </Text>
                   <Button
                     component="a"
-                    href="/programacao"
+                    href="/edicao-2026/programacao"
                     rightSection={<IconArrowRight />}
                     variant="transparent"
                     p={0}
@@ -92,7 +92,7 @@ export default function Home() {
                     <Button
                       size="lg"
                       component="a"
-                      href="/sobre/o-festival"
+                      href="/edicao-2026/sobre/o-festival"
                       leftSection={<IconPlus />}
                     >
                       Saiba Mais sobre o Festival
@@ -101,7 +101,7 @@ export default function Home() {
                       size="lg"
                       variant="outline"
                       component="a"
-                      href="/filmes"
+                      href="/edicao-2026/filmes"
                       leftSection={<IconMovie />}
                     >
                       Confira os filmes selecionados
@@ -288,7 +288,7 @@ export default function Home() {
         </Container>
       </section>
 
-      <Footer25 />
+      <Footer26 />
       {/* <HeroContentLeft /> */}
 
       <Modal opened={opened} onClose={close} size={"xl"}>
