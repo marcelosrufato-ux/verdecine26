@@ -13,7 +13,7 @@ import {
   Timeline,
   Button,
 } from "@mantine/core";
-import { HeaderSimple } from "@/app/components/Menu/Menu";
+import { HeaderSimple } from "../components/Menu/Menu";
 
 export default function Page() {
   return (
