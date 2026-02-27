@@ -6,7 +6,7 @@ import {
   IconBrandYoutube,
 } from "@tabler/icons-react";
 
-export default function Footer25() {
+export default function Footer26() {
   return (
     <>
       <footer id="contato" className="border border-t py-10 bg-gray-100">

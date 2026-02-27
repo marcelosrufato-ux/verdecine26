@@ -8,7 +8,7 @@ import {
 import Image from "next/image";
 
 
-export const Footer = () => {
+export const Footer26 = () => {
   return (
     <footer id="contato" className="bg-vc-light sm:px-16 px-8 py-10">
       <Container size={'xl'}>

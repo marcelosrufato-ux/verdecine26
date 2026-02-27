@@ -1,7 +1,7 @@
 "use client";
 import "../globalv2.css";
 import "../globalv3.css";
-import Footer25 from "../components/Footer26";
+import Footer26 from "../components/Footer26";
 import {
   Stack,
   Title,
