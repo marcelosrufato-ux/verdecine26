@@ -12,7 +12,8 @@ import {
   Timeline,
   Button,
 } from "@mantine/core";
-import { HeaderSimple } from "../components/Menu/Menu";
+import { HeaderSimple } from "@/app/edicao-2026/components/Menu/Menu";
+//import { HeaderSimple } from "../components/Menu/Menu";
 
 export default function Page() {
   return (
