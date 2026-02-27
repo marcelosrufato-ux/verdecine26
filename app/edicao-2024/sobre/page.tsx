@@ -17,7 +17,7 @@ import {
   Tabs,
 } from "@mantine/core";
 
-import {Footer} from "../../edicao-2025/components/Footer";
+import {Footer} from "../../edicao-2025/components/Footer25";
 import {Header} from "../../edicao-2025/components/Header";
 
 const Sobre = () => {
