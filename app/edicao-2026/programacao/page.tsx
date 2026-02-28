@@ -3,7 +3,7 @@ import { Container } from "@mantine/core";
 import { HeaderSimple } from "../components/Menu/Menu";
 import Programacao25 from "../components/Programacao/Programacao";
 import "../globalv2.css";
-import "../../globalv3.css";
+import "../globalv3.css";
 import Footer25 from "../components/Footer26";
 export default function Page() {
   return (
