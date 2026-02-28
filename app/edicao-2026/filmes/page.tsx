@@ -1,8 +1,8 @@
 "use client";
 import { FilmsGrid } from "../components/FilmsGrid";
 import data from "./data.json";
-import "../globalv2.css";
-import "../globalv3.css";
+import "../edicao-2026/globalv2-26.css";
+import "../edicao-2026/globalv3-26.css";
 import { Container } from "@mantine/core";
 import { HeaderSimple } from "../components/Menu/Menu";
 import Footer25 from "../components/Footer26";

@@ -1,6 +1,6 @@
 "use client";
-import "../globalv2.css";
-import "../globalv3.css";
+import "../edicao-2026/globalv2-26.css";
+import "../edicao-2026/globalv3-26.css";
 import Footer26 from "../components/Footer26";
 import {
   Stack,
