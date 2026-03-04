@@ -12,7 +12,7 @@ const Programacao = () => {
       <section className="bg-vc-green">
         <Tab />
       </section>
-      <Footer />
+      <Footer25 />
     </>
   );
 };

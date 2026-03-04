@@ -51,7 +51,7 @@ const Historico = () => {
           </GridCol>
         </Grid>
       </section>
-      <Footer />
+      <Footer25 />
     </>
   );
 };

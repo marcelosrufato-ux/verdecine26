@@ -10,7 +10,7 @@ const Contato = () => {
 
       
       
-      <Footer />
+      <Footer25 />
     </>
   );
 };

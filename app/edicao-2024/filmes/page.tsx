@@ -467,7 +467,7 @@ const Filmes = () => {
         </Grid>
       </Container>
       <hr className=" border-vc-orange" />
-      <Footer />
+      <Footer25 />
     </>
   );
 };
