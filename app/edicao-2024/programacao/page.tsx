@@ -1,6 +1,7 @@
 "use client";
 import Footer25 from "../../edicao-2025/components/Footer25";
 import {Header} from "../../edicao-2025/components/Header";
+import {Tab} from "../../edicao-2025/components/Tab";
 import "./Programacao.module.css";
 const Programacao = () => {
   return (
