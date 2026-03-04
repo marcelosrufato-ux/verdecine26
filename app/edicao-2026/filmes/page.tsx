@@ -1,8 +1,8 @@
 "use client";
 import { FilmsGrid } from "../components/FilmsGrid";
 import data from "./data.json";
-import "../globalv2-26.css";
-import "../../../globalv3-26.css";
+import "../../globalv2-26.css"; // Sobe 2 níveis
+import "../../globalv3-26.css"; // Sobe 2 níveis
 import { Container } from "@mantine/core";
 import { HeaderSimple } from "../components/Menu/Menu";
 import Footer25 from "../components/Footer26";
