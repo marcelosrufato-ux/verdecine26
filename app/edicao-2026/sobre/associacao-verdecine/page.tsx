@@ -1,6 +1,6 @@
 "use client";
-import "../../globalv2-26.css";
-import "../../../../style-26.css";
+import "../../globalv2-26.css"; // Sobe 2 níveis
+import "../../style-26.css"; // Sobe 2 níveis
 import Footer25 from "../../components/Footer26";
 import { Stack, Title, Container, Text, Image, Center } from "@mantine/core";
 import { HeaderSimple } from "../../components/Menu/Menu";
