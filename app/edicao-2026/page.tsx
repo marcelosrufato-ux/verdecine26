@@ -1,6 +1,6 @@
 "use client";
 import "./globals.css";
-import "./globalv2.css";
+import "./globalv2-26.css";
 
 import UnderConstruction from "./components/UnderConstruction";
 import { Header } from "./components";

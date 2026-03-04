@@ -1,6 +1,6 @@
 "use client";
 import "../globals.css";
-import "../globalv2.css";
+import "../globalv2-26.css";
 import { Container, Button } from "@mantine/core";
 
 import { useDisclosure } from "@mantine/hooks";

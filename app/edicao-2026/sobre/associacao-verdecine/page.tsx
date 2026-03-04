@@ -1,6 +1,6 @@
 "use client";
-import "../edicao-2026/globalv2-26.css";
-import "../edicao-2026/globalv3-26.css";
+import "../../globalv2-26.css";
+import "../../globalv3-26.css";
 import Footer25 from "../../components/Footer26";
 import { Stack, Title, Container, Text, Image, Center } from "@mantine/core";
 import { HeaderSimple } from "../../components/Menu/Menu";
