@@ -1,6 +1,6 @@
 "use client";
 import "./globals.css";
-import "./edicao-2026/globalv3-26.css";
+import "./edicao-2026/style-26.css";
 
 import UnderConstruction from "./edicao-2026/components/UnderConstruction";
 import { Header } from "./edicao-2026/components";
