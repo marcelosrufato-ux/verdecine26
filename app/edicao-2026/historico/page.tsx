@@ -1,6 +1,6 @@
 "use client";
 import "../../globalv2-26.css"; // Sobe 2 níveis
-import "../../globalv3-26.css"; // Sobe 2 níveis
+import "../../style-26.css"; // Sobe 2 níveis
 import Footer26 from "../components/Footer26";
 import {
   Stack,
