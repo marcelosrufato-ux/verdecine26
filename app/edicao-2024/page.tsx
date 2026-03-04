@@ -11,6 +11,7 @@ import { Modal } from "@mantine/core";
 
 import { useDisclosure } from "@mantine/hooks";
 import { useRef } from "react";
+import Footer25 from "../edicao-2025/components/Footer25";
 
 export default function Home() {
   const ref = useRef(null);
@@ -160,7 +161,7 @@ export default function Home() {
           <Tab />
         </section>
 
-        <Footer />
+        <Footer25 />
       </main>
     </>
   );

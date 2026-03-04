@@ -128,7 +128,7 @@ const QuemSomos = () => {
           </ul>
         </Container>
       </section>
-      <Footer />
+      <Footer25 />
     </>
   );
 };

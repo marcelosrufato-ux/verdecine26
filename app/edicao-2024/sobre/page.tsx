@@ -75,7 +75,7 @@ const Sobre = () => {
           </Container>
         </section>
       </main>
-      <Footer />
+      <Footer25 />
     </>
   );
 };
