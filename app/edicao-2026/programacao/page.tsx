@@ -2,8 +2,8 @@
 import { Container } from "@mantine/core";
 import { HeaderSimple } from "../components/Menu/Menu";
 import Programacao25 from "../components/Programacao/Programacao";
-import "../../globalv2-26.css"; // Sobe 2 níveis
-import "../../style-26.css"; // Sobe 2 níveis 
+import "../globalv2-26.css"; // Sobe 1 nível
+import "../style-26.css"; // Sobe 1 nível
 import Footer25 from "../components/Footer26";
 export default function Page() {
   return (
