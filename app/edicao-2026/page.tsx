@@ -200,7 +200,7 @@ export default function Home() {
                   className="mt-5"
                   variant="white"
                   component="a"
-                  href="/programacao"
+                  //href="/programacao"
                   rightSection={<IconArrowRight />}
                 >
                   Clique aqui para ver a programação completa
@@ -247,7 +247,7 @@ export default function Home() {
                   className="mt-5"
                   variant="white"
                   component="a"
-                  href="/programacao"
+                  //href="/programacao"
                   rightSection={<IconArrowRight />}
                 >
                   Clique aqui para ver a programação completa
@@ -292,7 +292,7 @@ export default function Home() {
                   className="mt-5"
                   variant="white"
                   component="a"
-                  href="/programacao"
+                  //href="/programacao"
                   rightSection={<IconArrowRight />}
                 >
                   Clique aqui para ver a programação completa
