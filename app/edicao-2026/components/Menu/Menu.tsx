@@ -27,10 +27,10 @@ interface MenuItem {
 }
 
 const menuItems: MenuItem[] = [
-  {
-    label: "Filmes",
-    href: "/edicao-2026/filmes",
-  },
+  //{
+   // label: "Filmes",
+   // href: "/edicao-2026/filmes",
+  //},
   {
     label: "Programação",
     href: "/edicao-2026/programacao",
