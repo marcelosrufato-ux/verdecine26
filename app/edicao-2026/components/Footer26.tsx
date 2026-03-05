@@ -66,7 +66,7 @@ export default function Footer26() {
                     href="/edicao-2026/sobre/o-festival#ficha-tecnica"
                     className="underline"
                   >
-                    Ficha Técnica da edição 2025
+                    Ficha Técnica da edição 2026
                   </a>
                 </li>
                 <li>
