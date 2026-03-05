@@ -181,6 +181,14 @@ export default function Page() {
             </div>
           </div>
         </Container>
+
+         <Container size="lg" className="py-16">
+        <Text>
+          <span className="font-bold">ASSOCIAÇÃO VERdeCINE</span> 
+          agradecemos de todo o coração as todas as pessoas que colaboram direta
+          ou indiretamente para que o VERdeCINE aconteça.
+        </Text>
+      </Container>
       </section>
 
       <Footer25 />

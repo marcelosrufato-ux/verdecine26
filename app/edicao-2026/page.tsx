@@ -65,16 +65,17 @@ export default function Home() {
                   </span>
 
                   <Text mt="md">
-                    VERdeCINE é um festival socioambiental de filmes com sede em
-                    Lavras (MG), que encontra o audiovisual como ferramenta para
-                    dialogar sobre o ser humano e sua interação com o meio
-                    social e ambiental. Com ações ao longo de todo o ano e uma
-                    cuidadosa curadoria, o festival celebra o cinema e promove
-                    encontros e reflexões sobre os temas da agenda de 2030.
+                    VERdeCINE é um festival socioambiental de filmes com sede em 
+                    Lavras (MG), que encontra o audiovisual como ferramenta para 
+                    dialogar sobre o ser humano e sua interação com o meio social 
+                    e ambiental. 
+                    Com ações ao longo de todo o ano e uma cuidadosa curadoria, o 
+                    festival celebra o cinema como espaço de encontros e reflexões.  
                     <span className="font-bold">
-                      Em 2026 o VERdeCINE expande o diálogo da ODS 11 para
-                      repensar as cidades e os assentamentos humanos vendo a
-                      inclusão, segurança, resiliência e sustentabilidade.
+                      Em 2026 o VERdeCINE busca inspiração no objetivo de desenvolvimento
+                      sustentável 4.7 "educação de qualidade" para refletir sobre as trocas
+                      e as construções dos saberes nos tempos atuais,  valorizando o cinema 
+                      como contribuição para transformações reais.
                     </span>
                   </Text>
                   <Button

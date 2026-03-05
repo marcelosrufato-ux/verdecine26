@@ -49,11 +49,11 @@ export default function Page() {
             viver e de contar histórias.
           </Text>
           <Text>
-            Trazemos filmes que abordam outras formas narrativas, instigando o
-            público a pensar além do que já se viu e ouviu sobre histórias,
-            territórios e pessoas. Após cada sessão, promovemos um diálogo
-            horizontal sobre o que foi apresentado, valorizando a troca de
-            saberes e sentires.
+            Trazemos filmes que abordam outras formas narrativas, instigando o 
+            público a pensar para além do que já tem visto e ouvido sobre 
+            histórias, territórios e pessoas. Após cada sessão dialogamos sobre 
+            o que foi apresentado em uma troca de saberes e sentires horizontal, 
+            para que todos e todas possam expressar suas opiniões.
           </Text>
           <Text>Te esperamos!</Text>
         </Stack>
