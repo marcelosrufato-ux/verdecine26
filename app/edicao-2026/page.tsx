@@ -73,7 +73,7 @@ export default function Home() {
                     festival celebra o cinema como espaço de encontros e reflexões.  
                     <span className="font-bold">
                       Em 2026 o VERdeCINE busca inspiração no objetivo de desenvolvimento
-                      sustentável 4.7 "educação de qualidade" para refletir sobre as trocas
+                      sustentável 4.7 EDUCAÇÃO DE QUALIDADE para refletir sobre as trocas
                       e as construções dos saberes nos tempos atuais,  valorizando o cinema 
                       como contribuição para transformações reais.
                     </span>
