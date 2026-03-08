@@ -65,6 +65,9 @@ export default function Page() {
           </div>
 
           <FichaTecnica />
+          <div className="py-4 ">
+            <h6 className="text-white">Agradecemos de todo o coração as todas as pessoas que colaboram direta ou indiretamente para que o VERdeCINE aconteça.</h6>
+          </div>
         </Container>
       </section>
       <Footer25 />
