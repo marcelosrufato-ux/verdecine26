@@ -180,7 +180,7 @@ export default function Home() {
                       SEXTA-FEIRA
                       <span className="text-xl font-light">
                         {" "}
-                        31 de maio de 2026
+                        29 de maio de 2026
                       </span>
                     </Title>
                   </Group>
