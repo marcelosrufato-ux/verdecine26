@@ -61,7 +61,7 @@ export default function Page() {
       <section className="bg-vc-purple py-16" id="ficha-tecnica">
         <Container>
           <div className="py-16 ">
-            <h2 className="text-vc-light">Ficha Técnica -VERdeCINE 2025</h2>
+            <h2 className="text-vc-light">Ficha Técnica -VERdeCINE 2026</h2>
           </div>
 
           <FichaTecnica />

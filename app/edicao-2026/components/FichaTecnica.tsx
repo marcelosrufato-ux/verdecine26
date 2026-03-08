@@ -14,13 +14,12 @@ const fichaTecnica: Participante[] = [
     nome: "PEDRO MICHELLI",
     funcoes: ["coordenação geral", "curadoria", "vinheta"],
   },
-  { nome: "GUSTAVO GU", funcoes: ["produção"] },
   {
     nome: "MARIANA VALLIN",
-    funcoes: ["assistente de produção", "mídias sociais"],
+    funcoes: ["Produção"],
   },
-  { nome: "JULIANA REGINA", funcoes: ["assistente de produção"] },
-  { nome: "MARINA LUZ", funcoes: ["assistente de produção"] },
+  { nome: "LUISA HELENA", funcoes: ["assistente de produção"] },
+ 
   { nome: "MARINA RUFATO", funcoes: ["design gráfico","mídias sociais"] },
   { nome: "MARCELO RUFATO", funcoes: ["site"] },
   { nome: "SILVA JUNIOR", funcoes: ["drone para vinheta"] },
@@ -32,8 +31,7 @@ const fichaTecnica: Participante[] = [
     nome: "MARA GUARRIEIRO/CONCEITO GRUPO CONTÁBIL",
     funcoes: ["contabilidade"],
   },
-  { nome: "MARIA ANGELA DE JESUS", funcoes: ["financiamento coletivo"] },
-  { nome: "LUCAS ROCHA", funcoes: ["financiamento coletivo"] },
+
 ];
 
 const groupFuncoes: Record<string, string[]> = {};

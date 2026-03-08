@@ -21,7 +21,7 @@ import {
 } from "@mantine/core";
 import { HeroContentLeft } from "./components/Hero/Hero";
 import { HeaderSimple } from "./components/Menu/Menu";
-// import Image from "next/image";
+import Imagem from "next/image";
 import Programacao25 from "./components/Programacao/Programacao";
 import Realizacao from "./components/Realizacao";
 import Footer26 from "./components/Footer26";
@@ -52,7 +52,7 @@ export default function Home() {
                     29, 30 e 31 de Maio - Lavras/MG
                   </span>
                   <h4 className="vc25-green vc_title leading-tight mt-5">
-                    OLHAR AS CIDADES E COMUNIDADES SUSTENTÁVEIS
+                    EXPERIÊNCIAS AUDIOVISUAIS PARA UMA EDUCAÇÃO SUSTENTÁVEL
                   </h4>
                   <h2 className="text-vc25-green-dark text-6xl vc_title leading-tight">
                     VER
@@ -143,7 +143,7 @@ export default function Home() {
                   className="cursor-pointer hover:scale-[1.02] transition-all duration-300"
                 >
                   <Image
-                    src="/Poster-VERdeCINE-Site2.webp"
+                    src="/Poster-Verdecine-site3.jpg"
                     alt="poster"
                     radius="lg"
                     className="shadow-2xl shadow-[#00000025] relative opacity-85"

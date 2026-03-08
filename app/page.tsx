@@ -118,7 +118,7 @@ export default function Home() {
                   className="cursor-pointer hover:scale-[1.02] transition-all duration-300"
                 >
                   <Image
-                    src="/poster-verdecine-site.webp"
+                    src="/Poster-VERdeCINE-Site2.webp"
                     alt="poster"
                     radius="lg"
                     className="shadow-2xl shadow-[#00000025] relative opacity-85"
