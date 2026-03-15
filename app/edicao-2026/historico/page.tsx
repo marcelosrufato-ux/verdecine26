@@ -65,7 +65,7 @@ export default function Page() {
                   Municipal Oscar Botelho de Lavras, MG. Conheça o percurso pedagógico:
                 </Text>
                 <Anchor 
-                  href="https://sites.google.com/view/arquivokino/semin%C3%A1rio-contrapartida-" 
+                  href="https://sites.google.com/view/arquivokino/semin%C3%A1rio-contrapartida-2025/corpo-%C3%A1gua?pli=1" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   display="block"
