@@ -7,9 +7,9 @@ export default function Realizacao() {
         <div className="">
           <h4 className="vc_title text-gray-500 ">Realização</h4>
 
-          <Image src="/realizacao.png" alt="Realização" w={400} />
+          <Image src="/realizacao.png" alt="Realização" w={100} />
         </div>
-        <div className="">
+        {/*<div className="">
           <h4 className="vc_title text-gray-500 ">Apoio</h4>
 
           <Image src="/apoio.png" alt="Realização" w={400} />
@@ -18,7 +18,7 @@ export default function Realizacao() {
           <h4 className="vc_title text-gray-500 ">Parceiros</h4>
 
           <Image src="/parceiros.png" alt="Realização" w={400} />
-        </div>
+        </div>*/}
       </Stack>
     </>
   );

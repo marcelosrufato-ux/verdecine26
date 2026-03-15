@@ -7,7 +7,7 @@ export default function Realizacao() {
         <div className="">
           <h4 className="vc_title text-gray-500 ">Realização</h4>
 
-          <Image src="/realizacao.png" alt="Realização" w={400} />
+          <Image src="/realizacao2.png" alt="Realização" w={400} />
         </div>
         <div className="">
           <h4 className="vc_title text-gray-500 ">Apoio</h4>

@@ -56,7 +56,7 @@ const menuItems: MenuItem[] = [
     submenu: [
       {
         label: "Edição 2024",
-        href: "/edicao-2025/edicao-2024",
+        href: "../edicao-2024",
       },
       {
         label: "Outras edições",

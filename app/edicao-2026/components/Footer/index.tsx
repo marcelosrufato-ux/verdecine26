@@ -47,8 +47,8 @@ export const Footer = () => {
           </div>
 
           <div className="col-span-9">
-            {/* <h4 className="text-vc-orange font-bold mb-4">Realização</h4> */}
-            <Image src="/apoios.png" width={600} height={500} alt="Apoio" />
+            {/* <h4 className="text-vc-orange font-bold mb-4">Realização</h4> 
+            <Image src="/apoios.png" width={600} height={500} alt="Apoio" />*/}
           </div>
         </div>
       </Container>

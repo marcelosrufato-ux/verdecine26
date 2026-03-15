@@ -87,7 +87,7 @@ export default function Home() {
                     size="xl"
                     className="underline font-bold p-0 m-0"
                   >
-                    Confira a programação
+                    Confira a programação (aguarde)
                   </Button>
                   <Group className="mb-5">
                     <Button
@@ -104,23 +104,23 @@ export default function Home() {
                       href="/EDITAL - VERDECINE - 2026.pdf"
                       leftSection={<IconPlus />}
                     >
-                      Veja o edital 2026 e se inscreva
+                      Veja o edital 2026
                     </Button>
                     <Button
                       size="lg"
                       component="a"
-                      href="https://forms.gle/Ptid5q1oc5LY1Ny28"
+                      //href="https://forms.gle/Ptid5q1oc5LY1Ny28"
                       leftSection={<IconMovie  />}
                     >
-                      Inscrição Curta-Metragem
+                      Inscrição Curta ENCERRADA
                     </Button>
                     <Button
                       size="lg"
                       component="a"
-                      href="https://forms.gle/NhD85kFqMT6mMMzb9"
+                      //href="https://forms.gle/NhD85kFqMT6mMMzb9"
                       leftSection={<IconMovie  />}
                     >
-                      Inscrição Longa-Metragem
+                      Inscrição Longa ENCERRADA
                     </Button>
                     {/*<Button
                       size="lg"
@@ -149,14 +149,14 @@ export default function Home() {
                     className="shadow-2xl shadow-[#00000025] relative opacity-85"
                     w={400}
                   />
-
-                  <Flex
+                  
+                  {/*<Flex //Vídeo entrada
                     justify="center"
                     align="center"
                     className="w-[70px] absolute bg-[#ffffff70] heartbeatSlow outline aspect-square rounded-full "
                   >
                     <IconPlayerPlayFilled size="30" />
-                  </Flex>
+                  </Flex>*/}
                 </Flex>
               </Grid.Col>
             </Grid>

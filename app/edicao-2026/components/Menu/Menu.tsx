@@ -31,6 +31,12 @@ const menuItems: MenuItem[] = [
    // label: "Filmes",
    // href: "/edicao-2026/filmes",
   //},
+
+   {
+    label: "Notícias",
+    href: "/edicao-2026/Noticias",
+  },
+
   {
     label: "Programação",
     href: "/edicao-2026/programacao",
@@ -60,11 +66,11 @@ const menuItems: MenuItem[] = [
       },
       {
         label: "Edição 2024",
-        href: "/edicao-2024",
+        href: "../edicao-2024",
       },
       {
-        label: "Outras edições",
-        href: "/historico",
+        label: "Resumo das edições",
+        href: "../edicao-2026/historico",
       },
     ],
   },

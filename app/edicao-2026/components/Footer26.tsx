@@ -15,7 +15,7 @@ export default function Footer26() {
             <Grid.Col span={{ base: 12, md: 4 }}>
               <h4 className="vc_title text-gray-500">Contato</h4>
               <div className="pt-5">
-                <Image src="/logo.svg" w={100} alt="Logo VerdeCINE" />
+                {/*<Image src="/logo.svg" w={100} alt="Logo VerdeCINE" />*/}
                 <ul className="pt-5">
                   <li>
                     {<IconMailbox className="inline mr-2" />}
@@ -55,11 +55,11 @@ export default function Footer26() {
                     Progamação
                   </a>
                 </li>
-                <li>
+                {/*<li>
                   <a href="/edicao-2026/filmes" className="underline">
                     Filmes Selecionados
                   </a>
-                </li>
+                </li>*/}
 
                 <li>
                   <a

@@ -12,6 +12,7 @@ import {
   Grid,
   Timeline,
   Button,
+  Anchor
 } from "@mantine/core";
 import { HeaderSimple } from "../components/Menu/Menu";
 
@@ -26,6 +27,113 @@ export default function Page() {
       </div>
       <Container size="lg" className="my-12 ">
         <Timeline lineWidth={3} bulletSize={25}>
+
+          <Timeline.Item
+            title={
+              <Title className="m-0 p-0 leading-none" order={4}>
+                2025
+              </Title>
+            }
+          >
+            <Grid justify="end">
+              <Grid.Col span={{ base: 12, md: 6 }}>
+                <Text>
+                  Em 2025 o VERdeCINE expande o diálogo da ODS 11 para repensar as cidades e os 
+                  assentamentos humanos vendo a inclusão, segurança, resiliência e sustentabilidade.
+                </Text>
+                <Text>
+                  - Foram 472 filmes inscritos, vindos de todas as partes do Brasil. 275 filmes produzidos 
+                  entre os anos de 2024 e 2025 resultado de políticas públicas voltadas para o audiovisual. 
+                  Destes filmes, 165 foram realizados por diretoras reafirmando a presença das mulheres no cinema.
+                  <br />
+                  - Foram exibidos 20 filmes entre os selecionados, os produzidos pelo VERdeCINE e os convidados.
+                  <br />
+                  - Tivemos a presença no festival de vários realizadores e  realizadoras.
+                  <br />
+                  - Foram realizadas três oficinas com o apoio do departamento de Arquitetura da Unilavras: 
+                  "Arquitetura e Cinema" pelo professor Renato Ferreira, "Do croqui a realidade" pela professora 
+                  Marisa Pereira e para o público infantil a oficina "cidade dos sonhos: uma cidade sustentável".                 
+                  <br />
+                  - Sessões de filmes, seguidas de bate-papo, especialmente curadas para mais de 200 
+                  escolares da rede municipal de educação
+                  <br />
+                  - Apresentação do livro “suleares para prácticas pedagógicas sobre a cultura dos povos originários
+                   do Brasil” com a presença dos autores Kauany Damião e Luan Mendonça.
+                  <br />
+                  - Em parceria com a ECOS da Universidade Federal de São João del Rei (UFSJ) estreamos com muita 
+                  alegria, as "Oficinas de Cinema na Escola" produzindo o filme "ÁGUA VIVA" com as crianças da Escola 
+                  Municipal Oscar Botelho de Lavras, MG. Conheça o percurso pedagógico:
+                </Text>
+                <Anchor href="https://sites.google.com/view/arquivokino/semin%C3%A1rio-contrapartida-" target="_blank" rel="noopener noreferrer">
+                        Conheça o percurso pedagógico clicando aqui.
+                </Anchor>                
+              </Grid.Col>
+              <Grid.Col span={{ base: 12, md: 6 }}>
+                <Image
+                  className="float-end"
+                  src="/poster-verdecine-site.webp"
+                  w={400}
+                  radius="md"
+                  alt="Poster Edição 2025"
+                />
+              </Grid.Col>
+            </Grid>
+            <Text>
+                  - Foi realizada a "1° Oficina de Curadoria de Filmes na Formação Docente" no museu de 
+                  história Natural da UFLA, em parceria com o  PIBID e o cineclube Cinema Com Vida. O 
+                  resultado desta oficina proporcionou uma sessão totalmente curada por estudantes 
+                  universitários, exibida para estudantes da EJAI ( educação de jovens, adultos e idosos)
+                  <br />
+                  - Pré-estreia nacional do filme "Lispectorante" dirigido por Renata Pinheiro, iniciando 
+                  assim a parceria com a distribuidora minera Embaúba Filmes.
+                  <br />
+                  - Seguindo a parceria com a Embaúba filmes e em comemoração aos 117 anos da Universidade 
+                  Federal de Lavras (UFLA) foi apresentado o filme "Yõg Ãtak: Meu Pai, Kaiowá" dirigido 
+                  por Sueli Maxakali, Isael Maxakali, Roberto Romero, Luisa Lanna no Centro de Cultura da 
+                  Universidade.
+                  <br />
+                  - Pela segunda vez,  a Virada Cultural Amazônia de pé aconteceu no quilombo urbano São 
+                  Benedito em Lavras/MG e na cidade de Luminárias/MG com exibição de filmes do acervo 
+                  VERdeCINE, graffiti, roda de capoeira, maculelê, contação de histórias e show musical.
+                  <br />
+                  - Publicamos o livro de pesquisa "O consumo do audiovisual em Lavras - 2024-2025
+                  <br />
+                  - Em comemoração ao aniversário da APAE de Lavras, foram exibidos filmes do acervo 
+                  VERdeCINE seguido de um excelente bate-papo com o público presente
+                  <br />
+                  - Integramos a equipe do "SEMEAR - um encontro entre a luta social e a agricultura 
+                  camponesa" que aconteceu no Centro de Cultura da UFLA, reunindo várias instituições 
+                  ligadas a agroecologia.
+                  <br />
+                  - Colaboramos pelo segundo ano consecutivo, com a "Mostra Voz das Minas" trazendo uma 
+                  curadoria de filmes realizados por diretoras sobre a cultura hip-hop.
+                  <br />
+                  - Em comemoração ao mês da consciência negra, foi realizado pelo VERdeCINE em parceria 
+                  com o conselho de cultura de Lavras a curadoria e exibição de dois documentários de 
+                  duas cineastas da cidade.
+                  <br />
+                  - Coletamos durante todo o ano de 2025, assinaturas para o projeto de lei da Amazônia de pé.
+                  <br />
+                  - Participamos da "Primavera dos Museus" com a apresentação dos filmes realizados no 
+                  VERdeCINE pelas crianças e adolescentes das escolas de Lavras, com a  participação das 
+                  mesmas levando seus corpos e suas falas para dentro da Universidade Federal.
+                  <br />
+                  - Em homenagem ao grande diretor  Silvio Tendler, em parceria com o pibid ufla e o cineclube 
+                  Cinema com Vida, foi exibido e discutido no Museu de Ciência Natural da Ufla, o filme 
+                  "O Fio da Meada" documentário de 2019 sobre a resistência de povos tradicionais brasileiros 
+                  diante de um processo de urbanização cada vez mais agressivo
+                  <br />
+                  - Com grande alegria através da vereadora Rose Oliveira, oficializamos, na câmara dos 
+                  vereadores e vereadoras de Lavras, a SEMANA VERDECINE garantindo  que o festival entre 
+                  para o calendário oficial da cidade.
+                </Text>
+
+                <Button component="a" href="/edicao-2025" className="mt-5">
+                  Confira o site da edição 2025
+                </Button>
+          </Timeline.Item>
+
+
           <Timeline.Item
             title={
               <Title className="m-0 p-0 leading-none" order={4}>

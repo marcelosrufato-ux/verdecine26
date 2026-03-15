@@ -30,32 +30,33 @@ export default function Page() {
             saberes.
           </Text>
           <Text>
-            Para a edição de 2025, o VERdeCINE vai olhar as cidades, buscando
-            dialogar sobre sua sustentabilidade, segurança, inclusão e
-            resiliência.
+            Em 2026, o VERdeCINE coloca o foco na troca de conhecimentos, exibindo 
+            filmes que nos contam histórias de pessoas reais ou imaginadas, que nos 
+            fazem pensar a relação entre a educação, a sociedade e a natureza.
           </Text>
           <Text>
-            Recebemos 472 filmes de todas as partes do Brasil e celebramos,
-            entendendo que esse resultado é fruto de políticas públicas voltadas
-            para o audiovisual brasileiro. Foram 275 filmes produzidos entre os
-            anos de 2024 e 2025 — 65 longas-metragens e 165 filmes dirigidos por
-            mulheres.
+            Ao longo de três semanas recebemos 295 filmes de todas as partes do Brasil. 
+            Um número menor do que em 2025. Arriscamos pensar que a produção de filmes 
+            que fala sobre a relação da educação e temas socioambientais ainda é pouco 
+            priorizada. 
           </Text>
           <Text>
-            A curadoria do VERdeCINE tem como objetivo apresentar filmes de
-            todos os gêneros cinematográficos: documentário, ficção, animação,
-            videoclipe, videodança, videoarte e formatos híbridos que
-            representem a diversidade territorial do Brasil em suas formas de
-            viver e de contar histórias.
-          </Text>
-          <Text>
+            A curadoria do VERdeCINE tem como objetivo apresentar filmes de todos os 
+            gêneros cinematográficos: documentário, ficção, animação, videoclipe, 
+            videodança, videoarte e formatos híbridos que representem a diversidade 
+            territorial do Brasil em suas formas de viver e de contar histórias. 
             Trazemos filmes que abordam outras formas narrativas, instigando o 
-            público a pensar para além do que já tem visto e ouvido sobre 
-            histórias, territórios e pessoas. Após cada sessão dialogamos sobre 
-            o que foi apresentado em uma troca de saberes e sentires horizontal, 
-            para que todos e todas possam expressar suas opiniões.
+            público a pensar para além do que já tem visto e ouvido sobre histórias, 
+            territórios e pessoas.
+          </Text>
+          <Text>
+            Após cada sessão dialogamos sobre o que foi apresentado em uma troca de 
+            saberes e sentires horizontal, para que todos e todas possam expressar 
+            suas opiniões celebrando o cinema.
           </Text>
           <Text>Te esperamos!</Text>
+          <Text>Dias 29, 30 e 31 de maio de 2026</Text>
+          <Text>Lavras - MG</Text>
         </Stack>
       </Container>
       <section className="bg-vc-purple py-16" id="ficha-tecnica">
