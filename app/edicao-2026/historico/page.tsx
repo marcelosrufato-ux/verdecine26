@@ -51,17 +51,17 @@ export default function Page() {
                   - Tivemos a presença no festival de vários realizadores e  realizadoras.
                   <br />
                   - Foram realizadas três oficinas com o apoio do departamento de Arquitetura da Unilavras: 
-                  "Arquitetura e Cinema" pelo professor Renato Ferreira, "Do croqui a realidade" pela professora 
-                  Marisa Pereira e para o público infantil a oficina "cidade dos sonhos: uma cidade sustentável".                 
+                  ARQUITETURA E CINEMA pelo professor Renato Ferreira, DO CROQUI A REALIDADE pela professora 
+                  Marisa Pereira e para o público infantil a oficina CIDADE DOS SONHOS: UMA CIDADE SUSTENTÁVEL.                 
                   <br />
                   - Sessões de filmes, seguidas de bate-papo, especialmente curadas para mais de 200 
                   escolares da rede municipal de educação
                   <br />
-                  - Apresentação do livro “suleares para prácticas pedagógicas sobre a cultura dos povos originários
-                   do Brasil” com a presença dos autores Kauany Damião e Luan Mendonça.
+                  - Apresentação do livro SULEARES PARA PRÁCTICAS PEDAGÓGICAS SOBRE A CULTURA DOS POVOS ORIGINÁRIOS DO BRASIL
+                   com a presença dos autores Kauany Damião e Luan Mendonça.
                   <br />
-                  - Em parceria com a ECOS da Universidade Federal de São João del Rei (UFSJ) estreamos com muita 
-                  alegria, as "Oficinas de Cinema na Escola" produzindo o filme "ÁGUA VIVA" com as crianças da Escola 
+                  - Em parceria com a ECOS da Universidade Federal de São João del Rei - UFSJ estreamos com muita 
+                  alegria, as OFICINAS DE CINEMA NA ESCOLA produzindo o filme ÁGUA VIVA com as crianças da Escola 
                   Municipal Oscar Botelho de Lavras, MG. Conheça o percurso pedagógico:
                 </Text>
                 <Anchor 
@@ -85,16 +85,16 @@ export default function Page() {
               </Grid.Col>
             </Grid>
             <Text>
-                  - Foi realizada a "1° Oficina de Curadoria de Filmes na Formação Docente" no museu de 
+                  - Foi realizada a 1° OFICINA DE CURADORIA DE FILMES NA FORMAÇÃO DOCENTE no museu de 
                   história Natural da UFLA, em parceria com o  PIBID e o cineclube Cinema Com Vida. O 
                   resultado desta oficina proporcionou uma sessão totalmente curada por estudantes 
-                  universitários, exibida para estudantes da EJAI ( educação de jovens, adultos e idosos)
+                  universitários, exibida para estudantes da EJAI - educação de jovens, adultos e idosos
                   <br />
-                  - Pré-estreia nacional do filme "Lispectorante" dirigido por Renata Pinheiro, iniciando 
+                  - Pré-estreia nacional do filme LISPECTORANTE dirigido por Renata Pinheiro, iniciando 
                   assim a parceria com a distribuidora minera Embaúba Filmes.
                   <br />
                   - Seguindo a parceria com a Embaúba filmes e em comemoração aos 117 anos da Universidade 
-                  Federal de Lavras (UFLA) foi apresentado o filme "Yõg Ãtak: Meu Pai, Kaiowá" dirigido 
+                  Federal de Lavras - UFLA foi apresentado o filme Yõg Ãtak: MEU PAI, Kaiowá dirigido 
                   por Sueli Maxakali, Isael Maxakali, Roberto Romero, Luisa Lanna no Centro de Cultura da 
                   Universidade.
                   <br />
@@ -102,16 +102,16 @@ export default function Page() {
                   Benedito em Lavras/MG e na cidade de Luminárias/MG com exibição de filmes do acervo 
                   VERdeCINE, graffiti, roda de capoeira, maculelê, contação de histórias e show musical.
                   <br />
-                  - Publicamos o livro de pesquisa "O consumo do audiovisual em Lavras - 2024-2025
+                  - Publicamos o livro de pesquisa O CONSUMO DO AUDIOVISUAL EM LAVRAS - 2024-2025
                   <br />
                   - Em comemoração ao aniversário da APAE de Lavras, foram exibidos filmes do acervo 
                   VERdeCINE seguido de um excelente bate-papo com o público presente
                   <br />
-                  - Integramos a equipe do "SEMEAR - um encontro entre a luta social e a agricultura 
-                  camponesa" que aconteceu no Centro de Cultura da UFLA, reunindo várias instituições 
+                  - Integramos a equipe do SEMEAR - UM ENCONTRO ENTRE A LUTA SOCIAL E A AGRICULTURA 
+                  CAMPONESA que aconteceu no Centro de Cultura da UFLA, reunindo várias instituições 
                   ligadas a agroecologia.
                   <br />
-                  - Colaboramos pelo segundo ano consecutivo, com a "Mostra Voz das Minas" trazendo uma 
+                  - Colaboramos pelo segundo ano consecutivo, com a MOSTRA VOZ DAS MINAS trazendo uma 
                   curadoria de filmes realizados por diretoras sobre a cultura hip-hop.
                   <br />
                   - Em comemoração ao mês da consciência negra, foi realizado pelo VERdeCINE em parceria 
@@ -120,13 +120,13 @@ export default function Page() {
                   <br />
                   - Coletamos durante todo o ano de 2025, assinaturas para o projeto de lei da Amazônia de pé.
                   <br />
-                  - Participamos da "Primavera dos Museus" com a apresentação dos filmes realizados no 
+                  - Participamos da PRIMAVERA DOS MUSEUS com a apresentação dos filmes realizados no 
                   VERdeCINE pelas crianças e adolescentes das escolas de Lavras, com a  participação das 
                   mesmas levando seus corpos e suas falas para dentro da Universidade Federal.
                   <br />
                   - Em homenagem ao grande diretor  Silvio Tendler, em parceria com o pibid ufla e o cineclube 
                   Cinema com Vida, foi exibido e discutido no Museu de Ciência Natural da Ufla, o filme 
-                  "O Fio da Meada" documentário de 2019 sobre a resistência de povos tradicionais brasileiros 
+                  O FIO DA MEADA documentário de 2019 sobre a resistência de povos tradicionais brasileiros 
                   diante de um processo de urbanização cada vez mais agressivo
                   <br />
                   - Com grande alegria através da vereadora Rose Oliveira, oficializamos, na câmara dos 
