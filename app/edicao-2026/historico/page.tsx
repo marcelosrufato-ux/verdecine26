@@ -64,7 +64,13 @@ export default function Page() {
                   alegria, as "Oficinas de Cinema na Escola" produzindo o filme "ÁGUA VIVA" com as crianças da Escola 
                   Municipal Oscar Botelho de Lavras, MG. Conheça o percurso pedagógico:
                 </Text>
-                <Anchor href="https://sites.google.com/view/arquivokino/semin%C3%A1rio-contrapartida-" target="_blank" rel="noopener noreferrer">
+                <Anchor 
+                  href="https://sites.google.com/view/arquivokino/semin%C3%A1rio-contrapartida-" 
+                  target="_blank" 
+                  rel="noopener noreferrer"
+                  display="block"
+                  mb="xl"
+                  >
                         Conheça o percurso pedagógico clicando aqui.
                 </Anchor>                
               </Grid.Col>
