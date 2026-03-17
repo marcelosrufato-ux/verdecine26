@@ -35,7 +35,7 @@ export default function Page() {
             fazem pensar a relação entre a educação, a sociedade e a natureza.
           </Text>
           <Text>
-            Ao longo de três semanas recebemos 295 filmes de todas as partes do Brasil. 
+            Ao longo de três semanas recebemos 297 filmes de todas as partes do Brasil. 
             Um número menor do que em 2025. Arriscamos pensar que a produção de filmes 
             que fala sobre a relação da educação e temas socioambientais ainda é pouco 
             priorizada. 

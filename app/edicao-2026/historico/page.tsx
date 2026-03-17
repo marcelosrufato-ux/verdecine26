@@ -62,7 +62,7 @@ export default function Page() {
                   <br />
                   - Em parceria com a ECOS da Universidade Federal de São João del Rei - UFSJ estreamos com muita 
                   alegria, as OFICINAS DE CINEMA NA ESCOLA produzindo o filme ÁGUA VIVA com as crianças da Escola 
-                  Municipal Oscar Botelho de Lavras, MG. Conheça o percurso pedagógico:
+                  Municipal Oscar Botelho de Lavras, MG.
                 </Text>
                 <Anchor 
                   href="https://sites.google.com/view/arquivokino/semin%C3%A1rio-contrapartida-2025/corpo-%C3%A1gua?pli=1" 

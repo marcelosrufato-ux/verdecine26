@@ -69,7 +69,7 @@ export default function Page() {
               />
             </div>
             <div className="col-span-2 sm:p-8 flex flex-col justify-center">
-              <h2 className="leading-tight ">Mapa Brasileiro de Educação Midiática </h2>
+              <h4 className="leading-tight ">Mapa Brasileiro de Educação Midiática </h4>
               <span className="block mb-5">
                 <p>O Mapa Brasileiro da Educação Midiática foi 
                   produzido a partir de um amplo mapeamento realizado em 2024 com o apoio da Unesco,
@@ -82,7 +82,7 @@ export default function Page() {
                 className="mt-5"
                 variant="white"
                 component="a"
-                href="https://www.gov.br/secom/pt-br/assuntos/educacao-midiatica/mapa/todas-as-fichas/verdecine-festival-socioambiental-de-filmes..."
+                href="https://www.gov.br/secom/pt-br/assuntos/educacao-midiatica/mapa/todas-as-fichas/verdecine-festival-socioambiental-de-filmes"
               >
                 Clique aqui para ver a publicação completa
               </Button>
@@ -92,9 +92,9 @@ export default function Page() {
           {/* SEÇÃO JORNAL (Com efeito de ampliação) */}
           <div className="grid sm:grid-cols-3">
             <div className="col-span-2 order-2 sm:order-1 sm:p-8 flex flex-col justify-center">
-              <h2 className="leading-tight">Jornal Estado de Minas </h2>
+              <h4 className="leading-tight">Jornal Estado de Minas </h4>
               <span className="block mb-5">
-                <span className="text-2xl opacity-75">Pagina da cultura</span>
+                <span className="text-1xl opacity-75">Pagina da cultura</span>
               </span>
               <p>
                 O Festival Verdecine foi notícia no Jornal Estado de Minas no dia 05/03/2026

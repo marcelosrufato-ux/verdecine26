@@ -66,11 +66,11 @@ const menuItems: MenuItem[] = [
       },
       {
         label: "Edição 2024",
-        href: "../edicao-2024",
+        href: "/edicao-2024",
       },
       {
-        label: "Resumo das edições",
-        href: "../edicao-2026/historico",
+        label: "Edições Anteriores",
+        href: "/edicao-2026/historico",
       },
     ],
   },
