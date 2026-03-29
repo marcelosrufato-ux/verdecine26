@@ -44,7 +44,7 @@ export default function Page() {
 
       <HeaderSimple />
       
-      <div className="bg-vc25-green py-5">
+      <div className="bg-vc26-blue py-5">
         <Container size="xl">
           <h2 className="text-white">Notícias VERdeCINE</h2>
         </Container>

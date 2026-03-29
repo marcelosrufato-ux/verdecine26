@@ -2,9 +2,9 @@ import type { Metadata } from "next";
 import { Playfair_Display } from "next/font/google";
 import "@mantine/core/styles.css";
 import "@mantine/carousel/styles.css";
+import "./globals.css"; // Global primeiro
+//import "./edicao-2026/style-26.css"; // Estilo específico por último (para ter prioridade)
 import { Analytics } from "@vercel/analytics/react";
-import "./globals.css";
-import "./edicao-2026/style-26.css";
 import { MantineProvider } from "@mantine/core";
 // const playfairDisplay = Playfair_Display({ subsets: ["latin"] });
 import Head from "next/head";

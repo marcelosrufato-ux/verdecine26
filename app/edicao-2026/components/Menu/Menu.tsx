@@ -27,10 +27,10 @@ interface MenuItem {
 }
 
 const menuItems: MenuItem[] = [
-  //{
-   // label: "Filmes",
-   // href: "/edicao-2026/filmes",
-  //},
+  {
+    label: "Filmes",
+    href: "/edicao-2026/filmes",
+  },
 
    {
     label: "Notícias",
@@ -165,6 +165,7 @@ export function HeaderSimple() {
                           component="a"
                           label={item?.label}
                           href={item.href}
+                          onClick={close}
                           variant="subtle"
                           styles={{
                             label: {

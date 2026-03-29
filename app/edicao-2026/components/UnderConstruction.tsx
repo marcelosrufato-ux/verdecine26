@@ -17,7 +17,7 @@ export default function UnderConstruction() {
       <header className="p-4 flex justify-end bg-slate-50">
         <Link href="edicao-2024">
           <Button
-            className="bg-vc25-green-light text-vc25-green hover:bg-vc25-green-light hover:text-vc25-green hover:bg-opacity-85"
+            className="bg-vc26-blue-light text-vc26-blue hover:bg-vc26-blue-light hover:text-vc26-blue hover:bg-opacity-85"
             variant="subtle"
           >
             Edição 2024
@@ -27,8 +27,8 @@ export default function UnderConstruction() {
       <main className="bg-slate-50 h-[calc(100vh-68px)] flex justify-center items-center   ">
         <Container>
           <div className="flex flex-col items-center">
-            <h2 className="text-v25 text-vc25-green">Vem aí o</h2>
-            <h2 className="text-v25 text-vc25-green text-9xl">
+            <h2 className="text-v25 text-vc26-blue">Vem aí o</h2>
+            <h2 className="text-v25 text-vc26-blue text-9xl">
               VER<span className="text-7xl">de</span>CINE
             </h2>
             <p>
@@ -41,7 +41,7 @@ export default function UnderConstruction() {
               download
             >
               <Button
-                className="bg-vc25-green-light text-vc25-green hover:bg-vc25-green-light hover:text-vc25-green hover:bg-opacity-85"
+                className="bg-vc26-blue-light text-vc26-blue hover:bg-vc26-blue-light hover:text-vc26-blue hover:bg-opacity-85"
                 variant="subtle"
               >
                 Baixar o edital

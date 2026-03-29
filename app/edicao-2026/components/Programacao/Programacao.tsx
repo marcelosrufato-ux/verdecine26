@@ -174,7 +174,7 @@ export default function Programacao25() {
         </Stack>
       </Center>
       <div className="p-5 border rounded-md">
-        <Tabs color="#386634" variant="pills" defaultValue="quinta">
+        <Tabs color="#6faed8" variant="pills" defaultValue="quinta">
           <Tabs.List grow>
             {/*<DiaTab value="quinta" titulo="Quinta-feira" data="29/05" />*/}
             <DiaTab value="sexta" titulo="Sexta-feira" data="29/05" />

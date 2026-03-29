@@ -9,7 +9,7 @@ export default function Page() {
   return (
     <>
       <HeaderSimple />
-      <div className="bg-vc25-green py-5">
+      <div className="bg-vc26-blue py-5">
         <Container size="xl">
           <h2 className="text-white">Sobre o festival</h2>
         </Container>
@@ -59,15 +59,15 @@ export default function Page() {
           <Text>Lavras - MG</Text>
         </Stack>
       </Container>
-      <section className="bg-vc-purple py-16" id="ficha-tecnica">
+      <section className="py-16 !text-vc26-blue" id="ficha-tecnica">
         <Container>
           <div className="py-16 ">
-            <h2 className="text-vc-light">Ficha Técnica -VERdeCINE 2026</h2>
+            <h2 className="text-vc26-blue">Ficha Técnica -VERdeCINE 2026</h2>
           </div>
 
           <FichaTecnica />
           <div className="py-4 ">
-            <h6 className="text-white">Agradecemos de todo o coração as todas as pessoas que colaboram direta ou indiretamente para que o VERdeCINE aconteça.</h6>
+            <h6 className="text-vc26-blue">Agradecemos de todo o coração as todas as pessoas que colaboram direta ou indiretamente para que o VERdeCINE aconteça.</h6>
           </div>
         </Container>
       </section>

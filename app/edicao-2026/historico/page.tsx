@@ -20,7 +20,7 @@ export default function Page() {
   return (
     <>
       <HeaderSimple />
-      <div className="bg-vc25-green py-5">
+      <div className="bg-vc26-blue py-5">
         <Container size="xl">
           <h2 className="text-white">Histórico</h2>
         </Container>
@@ -134,7 +134,11 @@ export default function Page() {
                   para o calendário oficial da cidade.
                 </Text>
 
-                <Button component="a" href="/edicao-2025" className="mt-5">
+                <Button 
+                  component="a" 
+                  href="/edicao-2025" 
+                  className="mt-5"
+                  color="white">
                   Confira o site da edição 2025
                 </Button>
           </Timeline.Item>
@@ -179,7 +183,11 @@ export default function Page() {
                   do acervo VERdeCINE. A ação arrecadou mais de 700 assinaturas
                   para o projeto de lei Amazônia de Pé.
                 </Text>
-                <Button component="a" href="/edicao-2024" className="mt-5">
+                <Button 
+                  component="a" 
+                  href="/edicao-2024" 
+                  className="mt-5"
+                  color="white">
                   Confira o site da edição 2024
                 </Button>
               </Grid.Col>

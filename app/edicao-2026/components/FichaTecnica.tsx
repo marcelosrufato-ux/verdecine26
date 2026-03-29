@@ -51,7 +51,7 @@ export default function FichaTecnicaLista() {
   return (
     <ul className="space-y-2">
       {Object.entries(groupFuncoes).map(([funcao, nomes]) => (
-        <li key={funcao} className="text-vc-light">
+        <li key={funcao} className="text-vc26-blue">
           <small className="opacity-70 capitalize">{funcao}:</small>{" "}
           {nomes.join(", ")}
         </li>

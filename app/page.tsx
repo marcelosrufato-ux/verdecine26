@@ -48,18 +48,18 @@ export default function Home() {
             <Grid justify="center" align="center">
               <Grid.Col span={{ base: 12, md: 6 }}>
                 <div>
-                  <span className="bg-vc25-green vc_title p-2 text-lg leading-tight text-white  ">
+                  <span className="bg-vc26-blue vc_title p-2 text-lg leading-tight text-white  ">
                     29, 30 e 31 de Maio - Lavras/MG
                   </span>
-                  <h4 className="vc25-green vc_title leading-tight mt-5">
+                  <h4 className="vc26-blue vc_title leading-tight mt-5">
                     OLHAR AS CIDADES E COMUNIDADES SUSTENTÁVEIS
                   </h4>
-                  <h2 className="text-vc25-green-dark text-6xl vc_title leading-tight">
+                  <h2 className="text-vc26-blue-dark text-6xl vc_title leading-tight">
                     VER
                     <span className="text-5xl">DE</span>CINE FESTIVAL
                     SOCIOAMBIENTAL DE FILMES
                   </h2>
-                  <span className="text-4xl m-0 p-0 vc_title leading-tight text-vc25-green-light">
+                  <span className="text-4xl m-0 p-0 vc_title leading-tight text-vc26-blue-light">
                     {" "}
                     (Edição 2026)
                   </span>
@@ -140,7 +140,7 @@ export default function Home() {
         </Container>
       </div>
 
-      <section className="py-12 bg-vc25-green ">
+      <section className="py-12 bg-vc26-blue ">
         <Center>
           <h2 className="vc_title text-white">Agenda</h2>
         </Center>

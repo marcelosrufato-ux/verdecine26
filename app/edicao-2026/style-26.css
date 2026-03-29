@@ -1,6 +1,10 @@
 body {
   background-color: #fff;
-  color: #1a6114;
+  color: #2780e6
+  /*color: #386634;*/
+  /* font-family: ""; */
+  /*background-color: #fff;*/
+  /*color: #386634;*/
   /* font-family: ""; */
 }
 
@@ -11,5 +15,15 @@ body {
 }
 
 p {
-  @apply text-vc25-green mb-2;
+  @apply text-vc26-blue mb-2;
+}
+
+/* O seletor #bm garante que essa regra seja mais forte que a do Mantine */
+#bm .nav-link-azul-26, 
+#bm a { 
+  color: #0058f3; 
+}
+
+#bm a:hover {
+  color: #0F3ADA;
 }

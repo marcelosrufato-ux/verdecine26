@@ -55,11 +55,11 @@ export default function Footer26() {
                     Progamação
                   </a>
                 </li>
-                {/*<li>
+                <li>
                   <a href="/edicao-2026/filmes" className="underline">
                     Filmes Selecionados
                   </a>
-                </li>*/}
+                </li>
 
                 <li>
                   <a

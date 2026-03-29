@@ -111,7 +111,7 @@ small {
 }
 
 .mantine-Tabs-tab[data-active="true"] {
-  background-color: #386634;
+  background-color: #0056b3;
 }
 
 .heartbeatSlow {
@@ -125,3 +125,16 @@ small {
     transform: scale(1.2);
   }
 }
+
+/* Força a cor azul nos botões do menu do Mantine */
+.nav-link-azul {
+  color: #0058f3 !important; /* Seu vc26-blue */
+  font-weight: 600 !important;
+  text-transform: uppercase;
+}
+
+.nav-link-azul:hover {
+  color: #0F3ADA !important; /* Um azul um pouco mais escuro para o hover */
+  background-color: rgba(0, 88, 243, 0.05) !important;
+}
+

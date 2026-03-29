@@ -1,3 +1,16 @@
+// Você pode colocar isso no topo do seu arquivo index.tsx, antes do "export const Header..."
+const NavItem = ({ href, label }: { href: string; label: string }) => (
+  <Box>
+    <Link
+      href={href}
+      className="font-semibold uppercase hover:opacity-80 !text-vc26-blue transition-colors"
+    >
+      {label}
+    </Link>
+  </Box>
+);
+import { Anchor } from '@mantine/core';
+//import Link from 'next/link';
 import { ClassAttributes, FC } from "react";
 import { useRef } from "react";
 import {
@@ -33,7 +46,7 @@ export const Header: FC<HeaderProps> = ({ className, title }: HeaderProps) => {
   return (
     <>
       <Drawer
-        className="bg-vc-green-light"
+        className="bg-vc26-blue"
         size={"sm"}
         styles={{
           content: { backgroundColor: "#FCEDCE" },
@@ -51,15 +64,15 @@ export const Header: FC<HeaderProps> = ({ className, title }: HeaderProps) => {
             <Box>
               <Link
                 href="/edicao-2026/sobre"
-                className="font-semibold uppercase hover:opacity-80 text-vc-green-light"
-              >
+                className="font-semibold uppercase hover:opacity-80 !text-vc26-blue"
+                >
                 Sobre
               </Link>
             </Box>
             <Box>
               <Link
                 href="/edicao-2026/programacao"
-                className="font-semibold uppercase hover:opacity-80 text-vc-green-light"
+                className="font-semibold uppercase hover:opacity-80 !text-vc26-blue"
               >
                 Programação
               </Link>
@@ -67,7 +80,7 @@ export const Header: FC<HeaderProps> = ({ className, title }: HeaderProps) => {
             <Box>
               <Link
                 href="/edicao-2026/filmes"
-                className="font-semibold uppercase hover:opacity-80 text-vc-green-light"
+                className="font-semibold uppercase hover:opacity-80 !text-vc26-blue"
               >
                 Filmes
               </Link>
@@ -75,7 +88,7 @@ export const Header: FC<HeaderProps> = ({ className, title }: HeaderProps) => {
             <Box>
               <Link
                 href="/edicao-2026/quem-somos"
-                className="font-semibold uppercase hover:opacity-80 text-vc-green-light"
+                className="font-semibold uppercase hover:opacity-80 !text-vc26-blue"
               >
                 Quem Somos
               </Link>
@@ -84,7 +97,7 @@ export const Header: FC<HeaderProps> = ({ className, title }: HeaderProps) => {
             <Box>
               <Link
                 href="/edicao-2026/contato"
-                className="font-semibold uppercase hover:opacity-80 text-vc-green-light"
+                className="font-semibold uppercase hover:opacity-80 !text-vc26-blue"
               >
                 Contato
               </Link>
@@ -93,7 +106,7 @@ export const Header: FC<HeaderProps> = ({ className, title }: HeaderProps) => {
               <Box>
                 <Link
                   href="https://www.instagram.com/verdecine/"
-                  className="font-semibold uppercase hover:opacity-80 text-vc-green-light"
+                  className="font-semibold uppercase hover:opacity-80 !text-vc26-blue"
                 >
                   <IconBrandInstagram size={30} />
                 </Link>
@@ -101,7 +114,7 @@ export const Header: FC<HeaderProps> = ({ className, title }: HeaderProps) => {
               <Box>
                 <Link
                   href="https://www.youtube.com/@verdecine"
-                  className="font-semibold uppercase hover:opacity-80 text-vc-green-light"
+                  className="font-semibold uppercase hover:opacity-80 !text-vc26-blue"
                 >
                   <IconBrandYoutube size={30} />
                 </Link>
@@ -125,16 +138,16 @@ export const Header: FC<HeaderProps> = ({ className, title }: HeaderProps) => {
               <Group className="collapse sm:visible">
                 <Box>
                   <Link
-                    href="/edicao-2026/sobre"
-                    className="font-semibold uppercase hover:opacity-80 text-vc-green-light"
-                  >
+                   href="/edicao-2026/sobre"
+                    className="font-semibold uppercase hover:opacity-80 !text-vc26-blue"
+                    >
                     Sobre
                   </Link>
                 </Box>
                 <Box>
                   <Link
                     href="/edicao-2026/programacao"
-                    className="font-semibold uppercase hover:opacity-80 text-vc-green-light"
+                    className="font-semibold uppercase hover:opacity-80 !text-vc26-blue"
                   >
                     Programação
                   </Link>
@@ -142,7 +155,7 @@ export const Header: FC<HeaderProps> = ({ className, title }: HeaderProps) => {
                 <Box>
                   <Link
                     href="/edicao-2026/filmes"
-                    className="font-semibold uppercase hover:opacity-80 text-vc-green-light"
+                    className="font-semibold uppercase hover:opacity-80 !text-vc26-blue"
                   >
                     Filmes
                   </Link>
@@ -150,7 +163,7 @@ export const Header: FC<HeaderProps> = ({ className, title }: HeaderProps) => {
                 <Box>
                   <Link
                     href="/edicao-2026/quem-somos"
-                    className="font-semibold uppercase hover:opacity-80 text-vc-green-light"
+                    className="font-semibold uppercase hover:opacity-80 !text-vc26-blue"
                   >
                     Quem Somos
                   </Link>
@@ -159,7 +172,7 @@ export const Header: FC<HeaderProps> = ({ className, title }: HeaderProps) => {
                 <Box>
                   <Link
                     href="/edicao-2026/contato"
-                    className="font-semibold uppercase hover:opacity-80 text-vc-green-light"
+                    className="font-semibold uppercase hover:opacity-80 !text-vc26-blue"
                   >
                     Contato
                   </Link>
@@ -167,7 +180,7 @@ export const Header: FC<HeaderProps> = ({ className, title }: HeaderProps) => {
                 <Box>
                   <Link
                     href="https://www.instagram.com/verdecine/"
-                    className="font-semibold uppercase hover:opacity-80 text-vc-green-light"
+                    className="font-semibold uppercase hover:opacity-80 !text-vc26-blue"
                   >
                     <IconBrandInstagram size={30} />
                   </Link>
@@ -175,7 +188,7 @@ export const Header: FC<HeaderProps> = ({ className, title }: HeaderProps) => {
                 <Box>
                   <Link
                     href="https://www.youtube.com/@verdecine"
-                    className="font-semibold uppercase hover:opacity-80 text-vc-green-light"
+                    className="font-semibold uppercase hover:opacity-80 !text-vc26-blue"
                   >
                     <IconBrandYoutube size={30} />
                   </Link>

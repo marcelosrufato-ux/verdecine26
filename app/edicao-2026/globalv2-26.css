@@ -1,6 +1,6 @@
 body {
   background-color: #fff;
-  color: #386634;
+  color: #0058f3;
   /* font-family: ""; */
 }
 
@@ -11,5 +11,5 @@ body {
 }
 
 p {
-  @apply text-vc25-green mb-2;
+  @apply text-vc26-blue mb-2;
 }

@@ -11,14 +11,19 @@ export default function Page() {
   return (
     <>
       <HeaderSimple />
-      <div className="bg-vc25-green py-5">
+      <div className="bg-vc26-blue py-5">
         <Container size="xl">
           <h2 className="text-white">Filmes edição 2026</h2>
         </Container>
       </div>
-      <Container size="xl" className="my-14">
+      <div className=" py-5">
+        <Container size="xl">
+          <h2 className="text-vc26-blue">Em breve programação completa</h2>
+        </Container>
+      </div>
+      {/*<Container size="xl" className="my-14"> //libera a lista de filmes
         <FilmsGrid films={data.films} />
-      </Container>
+      </Container>*/}
       <Footer25 />
     </>
   );

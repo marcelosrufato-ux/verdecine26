@@ -7,18 +7,18 @@ export default function Realizacao() {
         <div className="">
           <h4 className="vc_title text-gray-500 ">Realização</h4>
 
-          <Image src="/realizacao.png" alt="Realização" w={100} />
+          <Image src="/realizacao26.png" alt="Realização" w={100} />
         </div>
-        {/*<div className="">
+        <div className="">
           <h4 className="vc_title text-gray-500 ">Apoio</h4>
 
-          <Image src="/apoio.png" alt="Realização" w={400} />
+          <Image src="/apoio26.png" alt="Apoio" w={300} />
         </div>
         <div className="">
           <h4 className="vc_title text-gray-500 ">Parceiros</h4>
 
-          <Image src="/parceiros.png" alt="Realização" w={400} />
-        </div>*/}
+          <Image src="/parceiros26.png" alt="Parceiros" w={400} />
+        </div>
       </Stack>
     </>
   );
