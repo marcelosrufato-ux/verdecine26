@@ -26,7 +26,7 @@ import Imagem from "next/image";
 import Programacao25 from "./components/Programacao/Programacao";
 import Realizacao from "./components/Realizacao";
 import Footer26 from "./components/Footer26";
-import bg from "@/public/BG_Site.png";
+import bg from "@/public/BG_SITE.png";
 import {
   IconArrowRight,
   IconArrowRightTail,
