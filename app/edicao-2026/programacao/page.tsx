@@ -9,7 +9,7 @@ export default function Page() {
   return (
     <>
       <HeaderSimple />
-      <div className="bg-vc26-blue py-5">
+      <div className="bg-vc26-blue-new py-5">
         <Container size="xl">
           <h2 className="text-white">Programação</h2>
         </Container>

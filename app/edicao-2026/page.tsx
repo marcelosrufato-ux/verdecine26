@@ -49,7 +49,7 @@ export default function Home() {
             <Grid justify="center" align="center">
               <Grid.Col span={{ base: 12, md: 6 }}>
                 <div>
-                  <span className="bg-vc26-blue vc_title p-2 text-lg leading-tight text-white  ">
+                  <span className="bg-vc26-blue-new vc_title p-2 text-lg leading-tight text-white  ">
                     29, 30 e 31 de Maio - Lavras/MG
                   </span>
                   <h4 className="vc26-blue vc_title leading-tight mt-5">
@@ -60,7 +60,7 @@ export default function Home() {
                     <span className="text-5xl">DE</span>CINE FESTIVAL
                     SOCIOAMBIENTAL DE FILMES
                   </h2>
-                  <span className="text-4xl m-0 p-0 vc_title leading-tight text-vc26-blue">
+                  <span className="text-4xl m-0 p-0 vc_title leading-tight text-vc26-blue-new">
                     {" "}
                     (Edição 2026)
                   </span>
@@ -96,7 +96,7 @@ export default function Home() {
                       component="a"
                       href="/edicao-2026/sobre/o-festival"
                       leftSection={<IconPlus />}
-                      style={{ backgroundColor: '#0058f3', color: 'white' }}
+                      style={{ backgroundColor: '#4b7ed6', color: 'white' }}
                     >
                       Saiba Mais sobre o Festival
                     </Button>
@@ -105,7 +105,7 @@ export default function Home() {
                       component="a"
                       href="/EDITAL - VERDECINE - 2026.pdf"
                       leftSection={<IconPlus />}
-                      style={{ backgroundColor: '#0058f3', color: 'white' }}
+                      style={{ backgroundColor: '#4b7ed6', color: 'white' }}
                     >
                       Veja o edital 2026
                     </Button>
@@ -114,7 +114,7 @@ export default function Home() {
                       component="a"
                       //href="https://forms.gle/Ptid5q1oc5LY1Ny28"
                       leftSection={<IconMovie  />}
-                      style={{ backgroundColor: '#0058f3', color: 'white' }}
+                      style={{ backgroundColor: '#4b7ed6', color: 'white' }}
                     >
                       Inscrição Curta ENCERRADA
                     </Button>
@@ -123,7 +123,7 @@ export default function Home() {
                       component="a"
                       //href="https://forms.gle/NhD85kFqMT6mMMzb9"
                       leftSection={<IconMovie  />}
-                      style={{ backgroundColor: '#0058f3', color: 'white' }}
+                      style={{ backgroundColor: '#4b7ed6', color: 'white' }}
                     >
                       Inscrição Longa ENCERRADA
                     </Button>
@@ -170,7 +170,7 @@ export default function Home() {
         </Container>
       </div>
 
-      <section className="py-12 bg-vc26-blue ">
+      <section className="py-12 bg-vc26-blue-new">
         <Center>
           <h2 className="vc_title text-white">Agenda</h2>
         </Center>

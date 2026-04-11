@@ -61,17 +61,22 @@ const menuItems: MenuItem[] = [
 
     submenu: [
         {
-        label: "Edição 2025",
-        href: "/edicao-2025",
-      },
-      {
-        label: "Edição 2024",
-        href: "/edicao-2024",
-      },
-      {
-        label: "Edições Anteriores",
-        href: "/edicao-2026/historico",
-      },
+          label: "Edição 2025",
+          href: "/edicao-2025",
+        },
+        {
+          label: "Edição 2024",
+          href: "/edicao-2024",
+        },
+        {
+          label: "Edições Anteriores",
+          href: "/edicao-2026/historico",
+        },
+        {
+          label: "Catálogo VerdeCine",
+           href: "/CatalogoVerdeCine.pdf", 
+           target: "_blank",              
+        },
     ],
   },
   {

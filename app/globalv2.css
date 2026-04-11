@@ -11,5 +11,5 @@ body {
 }
 
 p {
-  @apply text-vc25-green mb-2;
+  @apply text-vc25-blue mb-2;
 }
