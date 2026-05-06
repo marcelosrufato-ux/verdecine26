@@ -1,7 +1,8 @@
 "use client";
 import "../edicao-2025/globals.css";
 import Image from "next/image";
-import { Footer, Header, Tab } from "../edicao-2025/components";
+import { Footer, Header } from "../edicao-2025/components";
+import { Tab } from "./Tab24";
 import { Modal } from "@mantine/core";
 //import { MantineProvider } from '@mantine/core';
 
