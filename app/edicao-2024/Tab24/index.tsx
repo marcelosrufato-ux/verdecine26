@@ -54,7 +54,6 @@ export const Tab = () => {
               <li className="text-xl text-vc-light border-b-2 py-4 border-[#ffffff23]">
                 16:20 - Exibições de filmes seguido de bate papo
                 <small className="block opacity-75">
-                  <Link className="underline" href="/edicao-2024/filmes#filme-21"></Link>
                   DOIS RIACHÖES CACAU E LIBERDADE / 11 minutos / BA{" "}
                   <Tooltip
                     arrowOffset={10}

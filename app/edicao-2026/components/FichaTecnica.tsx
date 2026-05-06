@@ -18,13 +18,13 @@ const fichaTecnica: Participante[] = [
     nome: "MARIANA VALLIN",
     funcoes: ["Produção"],
   },
-  { nome: "LUISA HELENA", funcoes: ["assistente de produção"] },
+  { nome: "LUIZA HELENA", funcoes: ["assistente de produção"] },
  
   { nome: "MARINA RUFATO", funcoes: ["design gráfico","mídias sociais"] },
   { nome: "MARCELO RUFATO", funcoes: ["site"] },
-  { nome: "SILVA JUNIOR", funcoes: ["drone para vinheta"] },
-  { nome: "MARCOS SOUZA", funcoes: ["registro fotografia e vídeo"] },
-  { nome: "RODRIGO MARQUES", funcoes: ["tradução em libras"] },
+  //{ nome: "SILVA JUNIOR", funcoes: ["drone para vinheta"] },
+  { nome: "CURTA LAVRAS", funcoes: ["registro fotografia e vídeo"] },
+  //{ nome: "RODRIGO MARQUES", funcoes: ["tradução em libras"] },
   { nome: "LUZ COMUNICAÇÃO", funcoes: ["assessoria de imprensa"] },
   { nome: "EVALDO GARCIA", funcoes: ["gestão de resíduos"] },
   {
