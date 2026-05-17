@@ -16,22 +16,25 @@ const fichaTecnica: Participante[] = [
   },
   {
     nome: "MARIANA VALLIN",
-    funcoes: ["Produção"],
+    funcoes: ["produção"],
   },
   { nome: "LUIZA HELENA", funcoes: ["assistente de produção"] },
- 
+  {
+    nome: "FERNANDA OMELCZUK / ISABELA COURA /BRUNA AZEVEDO/ LARISSA ANDRADE",
+    funcoes: ["oficina de cinema na escola"],
+  },
   { nome: "MARINA RUFATO", funcoes: ["design gráfico","mídias sociais"] },
   { nome: "MARCELO RUFATO", funcoes: ["site"] },
-  //{ nome: "SILVA JUNIOR", funcoes: ["drone para vinheta"] },
-  { nome: "CURTA LAVRAS", funcoes: ["registro fotografia e vídeo"] },
-  //{ nome: "RODRIGO MARQUES", funcoes: ["tradução em libras"] },
+  { nome: "ERICK AZEVEDO DE SOUZA - oficinas cinema na escola", funcoes: ["foto cartaz"] },
   { nome: "LUZ COMUNICAÇÃO", funcoes: ["assessoria de imprensa"] },
+  { nome: "CURTA LAVRAS", funcoes: ["registro fotografia e vídeo"] },
   { nome: "EVALDO GARCIA", funcoes: ["gestão de resíduos"] },
   {
     nome: "MARA GUARRIEIRO/CONCEITO GRUPO CONTÁBIL",
     funcoes: ["contabilidade"],
   },
-
+  { nome: "GABRIEL ROQUINI", funcoes: ["Secretaria de Cultura de Lavras"] },
+  { nome: "SOFIA MICHELLI PEDERIVA", funcoes: ["estagiária de coordenação geral"] },
 ];
 
 const groupFuncoes: Record<string, string[]> = {};

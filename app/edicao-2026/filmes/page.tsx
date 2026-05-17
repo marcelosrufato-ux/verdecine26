@@ -16,14 +16,10 @@ export default function Page() {
           <h2 className="text-white">Filmes edição 2026</h2>
         </Container>
       </div>
-      <div className=" py-5">
-        <Container size="xl">
-          <h2 className="text-vc26-blue">Em breve programação completa</h2>
-        </Container>
-      </div>
-      {/*<Container size="xl" className="my-14"> //libera a lista de filmes
+      
+      <Container size="xl" className="my-14">
         <FilmsGrid films={data.films} />
-      </Container>*/}
+      </Container>
       <Footer25 />
     </>
   );

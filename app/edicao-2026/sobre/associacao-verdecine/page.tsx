@@ -184,9 +184,11 @@ export default function Page() {
 
          <Container size="lg" className="py-16">
         <Text>
-          <span className="font-bold">ASSOCIAÇÃO VERdeCINE</span> 
-          agradecemos de todo o coração as todas as pessoas que colaboram direta
-          ou indiretamente para que o VERdeCINE aconteça.
+          <span className="font-bold">ASSOCIAÇÃO VERdeCINE </span> 
+          Agradecemos a todas as pessoas que colaboram direta ou indiretamente para que o VERdeCINE 
+          aconteça.
+          Nosso especial agradecimento à vereadora <strong>Rose Oliveira</strong> e a deputada estadual 
+          <strong> Bella Gonçalves</strong> pelas emendas impositivas que viabilizaram a realização do festival em 2026.
         </Text>
       </Container>
       </section>

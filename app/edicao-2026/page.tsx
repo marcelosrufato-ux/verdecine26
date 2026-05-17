@@ -88,7 +88,7 @@ export default function Home() {
                     size="xl"
                     className="underline font-bold p-0 m-0"
                   >
-                    Confira a programação (aguarde)
+                    Confira a programação
                   </Button>
                   <Group className="mb-5">
                     <Button
