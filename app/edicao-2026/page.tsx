@@ -100,7 +100,7 @@ export default function Home() {
                     >
                       Saiba Mais sobre o Festival
                     </Button>
-                    <Button
+                    {/*<Button
                       size="lg"
                       component="a"
                       href="/EDITAL - VERDECINE - 2026.pdf"
@@ -126,7 +126,7 @@ export default function Home() {
                       style={{ backgroundColor: '#4b7ed6', color: 'white' }}
                     >
                       Inscrição Longa ENCERRADA
-                    </Button>
+                    </Button>*/}
                     <Button
                       size="lg"
                       variant="outline"
@@ -134,7 +134,7 @@ export default function Home() {
                       href="/edicao-2026/filmes"
                       leftSection={<IconMovie />}
                     >
-                      Filmes selecionados para 2026
+                      Filmes
                     </Button>
                   </Group>
                 </div>
@@ -205,7 +205,7 @@ export default function Home() {
                   className="mt-5"
                   variant="white"
                   component="a"
-                  //href="/programacao"
+                  href="/edicao-2026/programacao"
                   rightSection={<IconArrowRight />}
                 >
                   Clique aqui para ver a programação completa
@@ -252,7 +252,7 @@ export default function Home() {
                   className="mt-5"
                   variant="white"
                   component="a"
-                  //href="/programacao"
+                  href="/edicao-2026/programacao"
                   rightSection={<IconArrowRight />}
                 >
                   Clique aqui para ver a programação completa
@@ -297,7 +297,7 @@ export default function Home() {
                   className="mt-5"
                   variant="white"
                   component="a"
-                  //href="/programacao"
+                  href="/edicao-2026/programacao"
                   rightSection={<IconArrowRight />}
                 >
                   Clique aqui para ver a programação completa
