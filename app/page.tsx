@@ -296,7 +296,7 @@ export default function Home() {
           // width="560"
           // height="315"
           className="w-full aspect-video"
-          src="https://www.youtube.com/embed/qGnSKL0EOSo?si=AJzaghyNrWp_DXt7&autoplay=1&mute=0&controls=0&loop=1&playlist=qGnSKL0EOSo"
+          src="https://www.youtube.com/watch?v=NZfvQOxtvDk"
           title="YouTube video player"
           // frameBorder="0"
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"

@@ -155,13 +155,13 @@ export default function Home() {
                     w={400}
                   />
                   
-                  {/*<Flex //Vídeo entrada
+                  <Flex //Vídeo entrada
                     justify="center"
                     align="center"
                     className="w-[70px] absolute bg-[#ffffff70] heartbeatSlow outline aspect-square rounded-full "
                   >
                     <IconPlayerPlayFilled size="30" />
-                  </Flex>*/}
+                  </Flex>
                 </Flex>
               </Grid.Col>
             </Grid>
@@ -321,18 +321,19 @@ export default function Home() {
       <Footer26 />
       {/* <HeroContentLeft /> */}
 
-      <Modal opened={opened} onClose={close} size={"xl"}>
-        <iframe
-          // width="560"
-          // height="315"
-          className="w-full aspect-video"
-          src="https://www.youtube.com/embed/qGnSKL0EOSo?si=AJzaghyNrWp_DXt7&autoplay=1&mute=0&controls=0&loop=1&playlist=qGnSKL0EOSo"
-          title="YouTube video player"
-          // frameBorder="0"
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-          // referrerpolicy="strict-origin-when-cross-origin"
-          allowFullScreen
-        ></iframe>
+      <Modal opened={opened} onClose={close} size="xl" centered>
+        <div style={{ width: '100%', aspectRatio: '16/9' }}>
+          <iframe
+            width="100%"
+            height="100%"
+            src="https://www.youtube.com/embed/NZfvQOxtvDk?si=wXJ-_nQNWUXwDM2f&autoplay=1&mute=1"
+            title="YouTube video player"
+            frameBorder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            referrerPolicy="strict-origin-when-cross-origin"
+            allowFullScreen
+          />
+        </div>
       </Modal>
     </>
   );
